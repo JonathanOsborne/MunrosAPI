@@ -1,0 +1,3104 @@
+{
+    "a-bhuidheanach-bheag": {
+        "altitude": "936",
+        "description": "A' Bhuidheanach Bheag is a broad, domed summit on the spacious plateau to the east of the Drumochter Pass. The plateau lacks distinctive landforms but is wild and desolate.",
+        "name": "A' Bhuidheanach Bheag",
+        "number_of_climbers": "5270",
+        "rating": "2.3",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/carn-na-caim.shtml"
+        ]
+    },
+    "a-chailleach": {
+        "altitude": "997",
+        "description": "A' Chailleach is the westernmost of the Fannichs and has fine views over the Fisherfield Forest and to An Teallach.",
+        "name": "A' Chailleach",
+        "number_of_climbers": "2994",
+        "rating": "3.4",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/sgurrbreac.shtml"
+        ]
+    },
+    "a-chailleach-monadhliath": {
+        "altitude": "930",
+        "description": "A' Chailleach is a familiar sight from the area around Newtonmore. Topped by a big cairn, it is the most ascended and perhaps the finest of the Monadhliath.",
+        "name": "A' Chailleach (Monadhliath)",
+        "number_of_climbers": "4594",
+        "rating": "2.7",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/monadhliath.shtml"
+        ]
+    },
+    "a-chralaig": {
+        "altitude": "1120",
+        "description": "a' Chralaig is a massive mountain and, despite being lesser known than many of its neighbours, is actually the highest summit in Kintail. The ascent from the Cluanie Inn is an unrelenting slog but it leads up to a very fine ridge and superb views.",
+        "name": "A' Chralaig",
+        "number_of_climbers": "2950",
+        "rating": "3.7",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Achralaig.shtml"
+        ]
+    },
+    "a-ghlas-bheinn": {
+        "altitude": "918",
+        "description": "A' Ghlas-bheinn is a rough and rocky little mountain that is well seen from near Morvich in Kintail. Its ascent can easily be combined with a visit to the famous Falls of Glomach.",
+        "name": "A' Ghlas-bheinn",
+        "number_of_climbers": "2263",
+        "rating": "3.3",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Aghlasbheinn.shtml"
+        ]
+    },
+    "a-mhaighdean": {
+        "altitude": "967",
+        "description": "A' Mhaighdean is often regarded as the remotest of the Munros, deep in the heart of the Fisherfield Forest. It is a magnificent castellated mountain with dramatic cliffs, and one of the finest viewpoints in Britain.",
+        "name": "A' Mhaighdean",
+        "number_of_climbers": "1971",
+        "rating": "4.4",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/fisherfield-6.shtml"
+        ]
+    },
+    "a-mharconaich": {
+        "altitude": "975",
+        "description": "A' Mharconaich is the most distinctive of the mountains above the Drumochter Pass, showing a steep nose to the northeast.",
+        "name": "A' Mharconaich",
+        "number_of_climbers": "6766",
+        "rating": "2.9",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/a-mharconaich.shtml "
+        ]
+    },
+    "am-basteir": {
+        "altitude": "934",
+        "description": "Am Basteir is a vertically-sided blade of rock whose ascent is only possible for keen scramblers from Bealach a Basteir. Below the summit of the mountain is the remarkable lesser peak of the Basteir Tooth - an imposing fang of rock that can only be reached by rock-climbers.",
+        "name": "Am Basteir",
+        "number_of_climbers": "2612",
+        "rating": "4.4",
+        "region": "Isle of Skye",
+        "routes": [
+            "https://www.walkhighlands.co.uk/skye/ambasteir.shtml"
+        ]
+    },
+    "am-bodach": {
+        "altitude": "1032",
+        "description": "Am Bodach is a fine, steep and stony mountain on the main ridge of the Mamores between Kinlochleven and Fort William.",
+        "name": "Am Bodach",
+        "number_of_climbers": "5838",
+        "rating": "3.9",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/ringofsteall.shtml"
+        ]
+    },
+    "am-faochagach": {
+        "altitude": "954",
+        "description": "Am Faochagach is a rounded Munro to the north of the Dirrie Mor (Ullapool) road. The main difficulty is the short approach across the first flat section of moor-  there are bogs and a potentially difficult river crossing to negotiate. The ascent of the peak itself is more straightforward.",
+        "name": "Am Faochagach",
+        "number_of_climbers": "2422",
+        "rating": "2.6",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/amfaochagach.shtml"
+        ]
+    },
+    "an-caisteal": {
+        "altitude": "995",
+        "description": "An Caisteal takes the form of a long ridged mountain to the south of Crianlarich. Its traverse is very enjoyable with interesting features and extensive views over the area.",
+        "name": "An Caisteal",
+        "number_of_climbers": "8791",
+        "rating": "3.4",
+        "region": "Loch Lomond",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochlomond/an-caisteal.shtml"
+        ]
+    },
+    "an-coileachan": {
+        "altitude": "923",
+        "description": "An Coileachan is the easternmost of the Fannichs, a steep-sided dome rising to the south of Loch Gorm. Whilst it is only a short distance from the track to Loch Fannich, the usual approach from the north is a long slog across the bogs.",
+        "name": "An Coileachan",
+        "number_of_climbers": "2639",
+        "rating": "2.9",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/fannichs.shtml "
+        ]
+    },
+    "an-gearanach": {
+        "altitude": "982",
+        "description": "An Gearanach is a magnificent ridge extending north from the main spine of the Mamores. The summit and intervening ridge is a narrow arete reminiscent of that between Carn Mor Dearg and Ben Nevis.",
+        "name": "An Gearanach",
+        "number_of_climbers": "5629",
+        "rating": "4.1",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/ringofsteall.shtml"
+        ]
+    },
+    "an-riabhachan": {
+        "altitude": "1129",
+        "description": "An Riabhachan is a massive ridged mountain to the north of Loch Mullardoch. It can be combined with neighbouring summits to make an epic day, whether tackled from Loch Mullardoch or from upper Glen Strathfarrar to the north.",
+        "name": "An Riabhachan",
+        "number_of_climbers": "1975",
+        "rating": "3.6",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/mullardoch-munros.shtml"
+        ]
+    },
+    "an-sgarsoch": {
+        "altitude": "1006",
+        "description": "An Sgarsoch is rounded and unspectacular, but it must rank amongst the remotest in Scotland, lying as it does in the very lonely country linking the Mounth to the Cairngorms. It requires a very long approachs from any direction.",
+        "name": "An Sgarsoch",
+        "number_of_climbers": "2515",
+        "rating": "2.8",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/an-sgarsoch.shtml"
+        ]
+    },
+    "an-socach-affric": {
+        "altitude": "921",
+        "description": "An Socach is an exceptionally remote Munro at the head of Glen Affric. It is really the eastern termination of the east ridge of Sgurr nan Ceathreamhnan and is often climbed with that peak, though it can be ascended on its own as a long day from the road end in Glen Affric.",
+        "name": "An Socach (Affric)",
+        "number_of_climbers": "1977",
+        "rating": "2.8",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/Ceathreamhnan.shtml"
+        ]
+    },
+    "an-socach-braemar": {
+        "altitude": "944",
+        "description": "An Socach is an undistinguished wedge-shaped mountain which can be climbed quicky from Baddoch in Glen Clunie. In its favour, it is an escape from the ski-developments at the head of the glen.",
+        "name": "An Socach (Braemar)",
+        "number_of_climbers": "5120",
+        "rating": "3.0",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/an-socach.shtml"
+        ]
+    },
+    "an-socach-mullardoch": {
+        "altitude": "1069",
+        "description": "An Socach is one of three Munros of that name; this one is deep in wild and inaccessible country above the upper part of Loch Mullardoch. It can be reached by following the very rough path along the loch, approached from Glen Strathfarrar to the north or via a very long walk from Killilan in Kintail.",
+        "name": "An Socach (Mullardoch)",
+        "number_of_climbers": "1934",
+        "rating": "3.6",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/mullardoch-munros.shtml"
+        ]
+    },
+    "an-stuc": {
+        "altitude": "1118",
+        "description": "An Stuc was promoted to Munro status in 1997 and is the steepest and sharpest of the Ben Lawers range. When approaching from Meall Garbh the ascent is extremely steep, exposed and loose.",
+        "name": "An Stuc",
+        "number_of_climbers": "7506",
+        "rating": "4.0",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/meall-garbh.shtml"
+        ]
+    },
+    "aonach-air-chrith": {
+        "altitude": "1021",
+        "description": "Aonach Air Chrith is the highest of the seven Munros on the south Glen Shiel ridge. One section of the west ridge is very narrow and there is also a fine spur to the north.",
+        "name": "Aonach Air Chrith",
+        "number_of_climbers": "4816",
+        "rating": "3.9",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Glenshielridge.shtml"
+        ]
+    },
+    "aonach-beag-alder": {
+        "altitude": "1116",
+        "description": "Aonach Beag is part of the high mountain ridge situated just to the north of Ben Alder. It has a dome-shaped form, with three radiating ridges and steep flanks, making part of a grand ridge walk.",
+        "name": "Aonach Beag (Alder)",
+        "number_of_climbers": "2504",
+        "rating": "3.5",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/aonach-beag.shtml"
+        ]
+    },
+    "aonach-beag-nevis-range": {
+        "altitude": "1234",
+        "description": "Aonach Beag is second highest summit in the Nevis Range, but is hidden from most views by the lower but more bulky Aonach Mor. Its domed summit rises above extensive broken crags and corries.",
+        "name": "Aonach Beag (Nevis Range)",
+        "number_of_climbers": "3877",
+        "rating": "3.7",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/aonachmor.shtml"
+        ]
+    },
+    "aonach-meadhoin": {
+        "altitude": "1001",
+        "description": "Aonach Meadhoin is a Munro on the Brothers ridge on the north side of Glen Shiel. It is situated between fine Sgurr a Bhealach Dheirg and the prominent Top of Sgurr an Fhuaraill.",
+        "name": "Aonach Meadhoin",
+        "number_of_climbers": "3341",
+        "rating": "3.3",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Brothersridge.shtml"
+        ]
+    },
+    "aonach-mor": {
+        "altitude": "1221",
+        "description": "Although lower than neighbouring Aonach Beag, Aonach Mor derives the 'Mor' tag from its greater bulk, hiding its higher neighbour. It is well seen from the Commando Memorial but this side of the mountain is scarred by ski-developments.",
+        "name": "Aonach Mor",
+        "number_of_climbers": "4324",
+        "rating": "3.3",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/aonachmor.shtml"
+        ]
+    },
+    "beinn-a-bhuird": {
+        "altitude": "1197",
+        "description": "Beinn a' Bhuird is one of the giants of the Cairngorms, a mountain of immense bulk. Its spacious plateau forms the rim above some magnificent corries,  with the remote Garbh Choire being the finest.  The mountain can be approached either through the pinewoods of Glen Quoich or the moors of Gleann an t-Slugain.",
+        "name": "Beinn a'Bhuird",
+        "number_of_climbers": "3480",
+        "rating": "3.7",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/beinn-a-bhuird.shtml "
+        ]
+    },
+    "beinn-a-chaorainn-cairngorms": {
+        "altitude": "1082",
+        "description": "Beinn a' Chaorainn guards the eastern side of the famous Lairig an Laoigh pass through the Cairngorms. The slopes above the pass are steep, but south of the domed summit is the vast mossy plateau of the Moine Bhealaidh.",
+        "name": "Beinn a' Chaorainn (Cairngorms)",
+        "number_of_climbers": "3499",
+        "rating": "2.8",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/beinn-a-chaorainn.shtml"
+        ]
+    },
+    "beinn-a-chaorainn-glen-spean": {
+        "altitude": "1050",
+        "description": "Beinn a' Chaorainn is a straightforward north-south ridge of three summits, rising above the forestry to the north of Loch Laggan. Its eastern flanks are carved into steep corries but the slopes to the west are more featureless.",
+        "name": "Beinn a' Chaorainn (Glen Spean)",
+        "number_of_climbers": "3604",
+        "rating": "2.9",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/beinnachaorainn.shtml"
+        ]
+    },
+    "beinn-a-chlachair": {
+        "altitude": "1087",
+        "description": "Beinn a' Chlachair is the highest of a group of three Munros in the Ardverikie Forest south of Loch Laggan. Its finest feature is Coire Mor a' Chlachair, a fine corrie on its northern flanks. The mountain has a spacious plateau but presents a forbidding wall to remote An Lairig to the south, whilst on all other sides it is very steep.",
+        "name": "Beinn a' Chlachair",
+        "number_of_climbers": "3043",
+        "rating": "3.3",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/beinn-a-chlachair.shtml"
+        ]
+    },
+    "beinn-a-chleibh": {
+        "altitude": "916",
+        "description": "Beinn a' Chleibh only just makes Munro status and is overshadowed by its far more celebrated neighbour Ben Lui, with which it is usually climbed. It presents forbiddingly steep slopes to Glen Lochay.",
+        "name": "Beinn a' Chleibh",
+        "number_of_climbers": "6208",
+        "rating": "2.6",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/ben-lui.shtml"
+        ]
+    },
+    "beinn-a-chochuill": {
+        "altitude": "980",
+        "description": "Beinn a' Chochuill is somewhat hidden away behind the more celebrated Ben Cruachan range. It has a long, almost level summit ridge providing good views both of Cruachan, and over Glen Kinglas and Loch Etive to the north.",
+        "name": "Beinn a' Chochuill",
+        "number_of_climbers": "5313",
+        "rating": "3.2",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/beinn-eunaich.shtml"
+        ]
+    },
+    "beinn-a-chreachain": {
+        "altitude": "1081",
+        "description": "Beinn a' Chreachain is the easternmost of the four Bridge of Orchy Munros. Although not as fine as neighbouring Beinn Achaladair, it has impressive Coire an Lochain on its northern flank, harbouring a lovely lochan, whilst its summit looks out over the immense flatness of Rannoch Moor.",
+        "name": "Beinn a' Chreachain",
+        "number_of_climbers": "4251",
+        "rating": "3.4",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/beinn-achaladair.shtml"
+        ]
+    },
+    "beinn-a-chroin": {
+        "altitude": "942",
+        "description": "Beinn a' Chroin is a surprisingly rocky little mountain to the south of Crianlarich. The location of the true summit has been the subject of controversy; that with the largest cairn was regarded as the top for many years, but the higher, Munro summit is actually that further west along the ridge.",
+        "name": "Beinn a' Chroin",
+        "number_of_climbers": "8139",
+        "rating": "3.4",
+        "region": "Loch Lomond",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochlomond/an-caisteal.shtml"
+        ]
+    },
+    "beinn-achaladair": {
+        "altitude": "1038",
+        "description": "Beinn Achaladair is perhaps the finest of the four Bridge of Orchy Munros. It presents an impressive north face to the wonderful pinewoods of the Black Wood of Rannoch, and its view over Loch Tulla and Rannoch Moor to the Black Mount and Glencoe is superb.",
+        "name": "Beinn Achaladair",
+        "number_of_climbers": "4434",
+        "rating": "3.7",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/beinn-achaladair.shtml"
+        ]
+    },
+    "beinn-an-dothaidh": {
+        "altitude": "1004",
+        "description": "Although far less known than its neighbour Beinn Dorain, Beinn an Dothaidh is the finer viewpoint, the cairn on the edge of the steep northern side having a magnificent aerial panorama over Loch Tulla and Rannoch Moor.",
+        "name": "Beinn an Dothaidh",
+        "number_of_climbers": "6938",
+        "rating": "3.2",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/beinn-dorain.shtml "
+        ]
+    },
+    "beinn-bheoil": {
+        "altitude": "1019",
+        "description": "Almost always climbed with its great parent mountain Ben Alder, remote Bheinn Bheoil is a straightforward ridge running high above Loch Ericht.",
+        "name": "Beinn Bheoil",
+        "number_of_climbers": "2503",
+        "rating": "3.0",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/ben-alder.shtml"
+        ]
+    },
+    "beinn-bhreac": {
+        "altitude": "931",
+        "description": "Beinn Bhreac is a lowly Munro by Cairngorms standards, rising at the southern end of a vast boggy moorland. It enjoys a fine setting high above beautiful Glen Derry.",
+        "name": "Beinn Bhreac",
+        "number_of_climbers": "3660",
+        "rating": "2.6",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/beinn-a-chaorainn.shtml"
+        ]
+    },
+    "beinn-bhrotain": {
+        "altitude": "1157",
+        "description": "Beinn Bhrotain is a huge, sprawling mountain rising in an extremely remote location on the west side of Glen Dee. Its northern side falls precipitously down to the great trench of Glen Geusachan.",
+        "name": "Beinn Bhrotain",
+        "number_of_climbers": "2941",
+        "rating": "3.4",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/beinn-bhrotain.shtml"
+        ]
+    },
+    "beinn-bhuidhe": {
+        "altitude": "948",
+        "description": "Beinn Bhuidhe is a neglected Munro, being shyly hidden away between Glens Shira and Fyne at the head of Loch Fyne. Its uppermost ridge is suprisingly steep and rocky and is a tremendous viewpoint.",
+        "name": "Beinn Bhuidhe",
+        "number_of_climbers": "4221",
+        "rating": "3.3",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/beinn-bhuidhe.shtml"
+        ]
+    },
+    "beinn-chabhair": {
+        "altitude": "933",
+        "description": "Beinn Chabhair rises steeply above Inverarnan just to the north of Loch Lomond. This rocky peak is both accessible and popular; the summit is a fine viewpoint, with a good vista down Loch Long.",
+        "name": "Beinn Chabhair",
+        "number_of_climbers": "6950",
+        "rating": "3.1",
+        "region": "Loch Lomond",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochlomond/beinn-chabhair.shtml"
+        ]
+    },
+    "beinn-dearg-blair-atholl": {
+        "altitude": "1008",
+        "description": "Beinn Dearg is a dome of pink granite rising above the surrounding moorlands in the remote area north of Blair Atholl.",
+        "name": "Beinn Dearg (Blair Atholl)",
+        "number_of_climbers": "3596",
+        "rating": "2.9",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/beinn-dearg.shtml"
+        ]
+    },
+    "beinn-dearg-ullapool": {
+        "altitude": "1084",
+        "description": "Beinn Dearg is the highest mountain north of the Dirrie Mor. It is a fine dome-shaped mountain, high above deep and atmospheric corries, and a worthy crowning glory to a fine range.",
+        "name": "Beinn Dearg (Ullapool)",
+        "number_of_climbers": "3295",
+        "rating": "4.0",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/beinndearg.shtml"
+        ]
+    },
+    "beinn-dorain": {
+        "altitude": "1076",
+        "description": "Beinn Dorain is one of the more familiar landmark hills of the Highlands, a graceful, steep grassy pyramid revealed on the drive north from Tyndrum. Outside hillwalking circles it is known for having been celebrated by the great Gaelic poet, Duncan Ban MacIntyre.",
+        "name": "Beinn Dorain",
+        "number_of_climbers": "7637",
+        "rating": "3.9",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/beinn-dorain.shtml "
+        ]
+    },
+    "beinn-dubhchraig": {
+        "altitude": "978",
+        "description": "Beinn Dubhchraig, usually climbed together with its neighbour Ben Oss, is part of the Ben Lui range of mountains. It is usually ascended from Dalrigh between Crianlarich and Tyndrum.",
+        "name": "Beinn Dubhchraig",
+        "number_of_climbers": "5858",
+        "rating": "3.2",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/ben-oss.shtml"
+        ]
+    },
+    "beinn-eibhinn": {
+        "altitude": "1102",
+        "description": "Beinn Eibhinn is a steep sided ridge curving round Coire a' Charra Mhoir. Part of the Geal Charn ridge system north of Ben Alder, it requires a long walk to reach it from any direction.",
+        "name": "Beinn Eibhinn",
+        "number_of_climbers": "2444",
+        "rating": "3.3",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/aonach-beag.shtml"
+        ]
+    },
+    "beinn-eunaich": {
+        "altitude": "989",
+        "description": "Beinn Eunaich rises above the foot of Glen Strae and its slopes of grass and broken rock are steep and strenuous. It is usually combined with neighbouring Beinn a' Chochuill.",
+        "name": "Beinn Eunaich",
+        "number_of_climbers": "5238",
+        "rating": "3.2",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/beinn-eunaich.shtml"
+        ]
+    },
+    "beinn-fhada": {
+        "altitude": "1032",
+        "description": "Beinn Fhada has a sprawling summit plateau with steep, craggy sides and several grand corries. It is well seen in the view from Morvich near the head of Loch Duich.",
+        "name": "Beinn Fhada",
+        "number_of_climbers": "2484",
+        "rating": "4.0",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Beinnfhada.shtml"
+        ]
+    },
+    "beinn-fhionnlaidh": {
+        "altitude": "959",
+        "description": "Beinn Fhionnlaidh is a long, broad and undulating ridge running between Glen Etive and Loch Creran. It can be climbed from either direction but the route from Loch Creran avoids the worst of the forestry and gives good views out over the sea.",
+        "name": "Beinn Fhionnlaidh",
+        "number_of_climbers": "3148",
+        "rating": "3.3",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/beinn-fhionnlaidh.shtml"
+        ]
+    },
+    "beinn-fhionnlaidh-carn-eige": {
+        "altitude": "1005",
+        "description": "Beinn Fhionnlaidh is a frustrating Munro for baggers, being out on the inaccessible ridge running north from Carn Eige. Loch Mullardoch guards the foot of this ridge so most baggers have to climb over Carn Eige twice to get out and back from this peak.",
+        "name": "Beinn Fhionnlaidh (Carn Eige)",
+        "number_of_climbers": "1975",
+        "rating": "3.3",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/carn-eige.shtml"
+        ]
+    },
+    "beinn-ghlas": {
+        "altitude": "1103",
+        "description": "Beinn Ghlas is a little known Munro but one of the most frequently climbed, the reason being that it is visited on the usual path used en-route to Ben Lawers. Almost never climbed in its own right, it supports a wonderful arctic flora and is part of the Ben Lawers National Nature Reserve.",
+        "name": "Beinn Ghlas",
+        "number_of_climbers": "14652",
+        "rating": "3.4",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/ben-lawers.shtml"
+        ]
+    },
+    "beinn-heasgarnich": {
+        "altitude": "1078",
+        "description": "Beinn Heasgarnich is a sprawling mountain. It can be approached by the high private road linking Glen Lochay and Glen Lyon, but it is protected by a moat of peat bogs.",
+        "name": "Beinn Heasgarnich",
+        "number_of_climbers": "2879",
+        "rating": "3.1",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/beinn-heasgarnich.shtml"
+        ]
+    },
+    "beinn-ime": {
+        "altitude": "1011",
+        "description": "Beinn Ime is the highest of the Arrochar Alps. Usually ascended by its broad southern slopes from the Bealach a'Mhaim, the other sides of the mountain are much steeper and more rugged.",
+        "name": "Beinn Ime",
+        "number_of_climbers": "11205",
+        "rating": "3.4",
+        "region": "Loch Lomond",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochlomond/beinn-ime.shtml"
+        ]
+    },
+    "beinn-iutharn-mhor": {
+        "altitude": "1045",
+        "description": "Beinn Iutharn Mhor is a steep sided mountain in the otherwise rolling wild area of the Mounth. It is usually accessed via the long Glen Ey from the north.",
+        "name": "Beinn Iutharn Mhor",
+        "number_of_climbers": "3335",
+        "rating": "3.0",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/beinn-iutharn-mhor.shtml"
+        ]
+    },
+    "beinn-liath-mhor": {
+        "altitude": "926",
+        "description": "Beinn Liath Mhor is a long, multiple-summited sandstone ridge with steep flanks and a summit sprinkled with white quartzite. It offers interesting views over the Coulin Forest and into Torridon.",
+        "name": "Beinn Liath Mhor",
+        "number_of_climbers": "2753",
+        "rating": "3.9",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/Beinnliathmhor.shtml"
+        ]
+    },
+    "beinn-liath-mhor-fannaich": {
+        "altitude": "954",
+        "description": "Beinn Liath Mhor Fannaich is a bulky Munro situated just to the north of the main Fannichs ridge. It offers good views both of the neighbouring  and over to the Beinn Dearg range.",
+        "name": "Beinn Liath Mhor Fannaich",
+        "number_of_climbers": "2902",
+        "rating": "2.9",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/fannichs.shtml "
+        ]
+    },
+    "beinn-mhanach": {
+        "altitude": "953",
+        "description": "Beinn Mhanach is an undistinguished Munro, a rounded lump when seen from any direction. It can be approached either up the attractive Auch Glen, or, less obviously, over the bealach Achaladair from Achaladair Farm.",
+        "name": "Beinn Mhanach",
+        "number_of_climbers": "3388",
+        "rating": "3.0",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/beinn-mhanach.shtml"
+        ]
+    },
+    "beinn-mheadhoin": {
+        "altitude": "1182",
+        "description": "Beinn Mheadhoin lies at the remote heart of the Cairngorms range, its summit plateau strewn with some spectacular granite tors. It can be approached either from the north across the magnificent Loch Avon basin - involving much reascent on the return - or via the longer approach from the south.",
+        "name": "Beinn Mheadhoin",
+        "number_of_climbers": "4075",
+        "rating": "4.3",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/beinn-mheadhoin.shtml"
+        ]
+    },
+    "beinn-na-lap": {
+        "altitude": "937",
+        "description": "Beinn na Lap is a rounded hill in the heart of the wild area to the northeast of Rannoch Moor. The West Highland railway passes close to its foot and the ascent from Corrour Station is short and straightforward.",
+        "name": "Beinn na Lap",
+        "number_of_climbers": "3255",
+        "rating": "3.1",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/beinn-na-lap.shtml"
+        ]
+    },
+    "beinn-nan-aighenan": {
+        "altitude": "960",
+        "description": "Beinn nan Aighenan is an isolated summit and quite a tricky Munro to reach. The options are a very long approach up Glen Kinglas or a climb over the intervening ridge from Glen Etive.",
+        "name": "Beinn nan Aighenan",
+        "number_of_climbers": "2960",
+        "rating": "3.3",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/beinn-nan-aighenan.shtml"
+        ]
+    },
+    "beinn-narnain": {
+        "altitude": "926",
+        "description": "One of the Arrochar Alps, Beinn Narnain's location means it is often one of the first Munros to be tackled. It is a very rocky little mountain with some scrambling and several false summits.",
+        "name": "Beinn Narnain",
+        "number_of_climbers": "11956",
+        "rating": "3.8",
+        "region": "Loch Lomond",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochlomond/beinn-ime.shtml"
+        ]
+    },
+    "beinn-sgritheall": {
+        "altitude": "974",
+        "description": "Beinn Sgritheall has one of the finest situations of any of the Munros, towering above the tiny village of Arnisdale on Loch Huorn. Its ascent is unrelentingly steep but the views from the summit are amongst the finest in Scotland.",
+        "name": "Beinn Sgritheall",
+        "number_of_climbers": "2633",
+        "rating": "4.1",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Beinnsgritheall.shtml"
+        ]
+    },
+    "beinn-sgulaird": {
+        "altitude": "937",
+        "description": "With its coastal position Beinn Sgulaird has a reputation as a magnificent viewpoint. It is well deserved but the steep slopes and undulating ridge makes for a much more arduous walk than its position close to the road would suggest.",
+        "name": "Beinn Sgulaird",
+        "number_of_climbers": "3249",
+        "rating": "3.7",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/beinn-sgulaird.shtml"
+        ]
+    },
+    "beinn-tarsuinn": {
+        "altitude": "937",
+        "description": "Beinn Tarsuinn is in the heart of the Fisherfield Forest, one of the wildest places in Scotland, and requires an epic walk to ascend, whether climbed with the rest of the Fisherfield Munros from Shenavall to the north, or from Kinlochewe to the south.",
+        "name": "Beinn Tarsuinn",
+        "number_of_climbers": "1979",
+        "rating": "3.9",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/fisherfield-6.shtml"
+        ]
+    },
+    "beinn-teallach": {
+        "altitude": "915",
+        "description": "Beinn Teallach was once the highest of the Corbetts before being promoted be one of the smallest Munros. It has steep ground on its eastern side but lacks any real distinction.",
+        "name": "Beinn Teallach",
+        "number_of_climbers": "3407",
+        "rating": "2.5",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/beinnachaorainn.shtml"
+        ]
+    },
+    "beinn-tulaichean": {
+        "altitude": "946",
+        "description": "Beinn Tulaichean is really a minor summit on the south ridge of Cruach Ardrain. It is best seen and most easily climbed from Inverlochlarig in the Braes of Balquhidder, though it is also possible to approach over Cruach Ardrain from the A82.",
+        "name": "Beinn Tulaichean",
+        "number_of_climbers": "6978",
+        "rating": "2.9",
+        "region": "Loch Lomond",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochlomond/cruach-ardrain.shtml"
+        ]
+    },
+    "beinn-udlamain": {
+        "altitude": "1010",
+        "description": "Beinn Udlamain is the highest of the four mountains on the west side of the Drumochter Pass. It offers fine views of the Ben Alder range.",
+        "name": "Beinn Udlamain",
+        "number_of_climbers": "5744",
+        "rating": "2.8",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/beinn-udlamain.shtml"
+        ]
+    },
+    "ben-alder": {
+        "altitude": "1148",
+        "description": "Ben Alder is one of the remotest of the Munros. A spacious plateau surrounded by cliffs and steep slopes, this is a mountain of memorable character and an almost palpable personality. The approach is enlivened by the dramatic Leachas ridges which offer some scrambling.",
+        "name": "Ben Alder",
+        "number_of_climbers": "2806",
+        "rating": "4.2",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/ben-alder.shtml"
+        ]
+    },
+    "ben-avon": {
+        "altitude": "1171",
+        "description": "Ben Avon is the easternmost of the high Cairngorms. This extraordinary mountain has a vast plateau stretching for miles and dotted with an amazing array of granite tors. One of these forms the summit, requiring a short scramble.",
+        "name": "Ben Avon",
+        "number_of_climbers": "3422",
+        "rating": "4.1",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/ben-avon.shtml"
+        ]
+    },
+    "ben-challum": {
+        "altitude": "1025",
+        "description": "Ben Challum is usually climbed from Strath Fillan and is an undistinguished trudge from this direction until the final ridge, though the views are fine. It reserves its best outline for its remoter side above the head of Glen Lochay, from where it appears as a conical peak.",
+        "name": "Ben Challum",
+        "number_of_climbers": "5551",
+        "rating": "3.0",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/ben-challum.shtml"
+        ]
+    },
+    "ben-chonzie": {
+        "altitude": "931",
+        "description": "Ben Chonzie is the highest point of the heathery moorlands to the north of Crieff. Its finest side is to the east above Glen Turret, but it is more frequently and quickly climbed using tracks from the west.",
+        "name": "Ben Chonzie",
+        "number_of_climbers": "12617",
+        "rating": "3.0",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/ben-chonzie.shtml"
+        ]
+    },
+    "ben-cruachan": {
+        "altitude": "1126",
+        "description": "Ben Cruachan is a very popular mountain, the highest summit of a grand range of sharp peaks between Loch Awe and Loch Etive, prominent in many distant views. Beneath the central corrie there is a huge underground hydro-electric power station.",
+        "name": "Ben Cruachan",
+        "number_of_climbers": "6544",
+        "rating": "4.3",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/ben-cruachan.shtml"
+        ]
+    },
+    "ben-hope": {
+        "altitude": "927",
+        "description": "The most northerly of the Munros, Ben Hope is an isolated monolith with a short usual ascent that can be made quickly. The view is of a stunning desolation of lochans and moors.",
+        "name": "Ben Hope",
+        "number_of_climbers": "5270",
+        "rating": "3.8",
+        "region": "Sutherland",
+        "routes": [
+            "https://www.walkhighlands.co.uk/sutherland/ben-hope.shtml"
+        ]
+    },
+    "ben-klibreck": {
+        "altitude": "961",
+        "description": "Ben Klibreck is a giant whale of a Munro isolated in the wilds of East Sutherland. The usual ascent route climbs very steeply to reach the bealach to the south of the hill; the reward is a stunning panorama of Scotland's northern wildernesses.",
+        "name": "Ben Klibreck",
+        "number_of_climbers": "3503",
+        "rating": "3.3",
+        "region": "Sutherland",
+        "routes": [
+            "https://www.walkhighlands.co.uk/sutherland/ben-klibreck.shtml"
+        ]
+    },
+    "ben-lawers": {
+        "altitude": "1214",
+        "description": "Ben Lawers is the highest mountain in the Southern Highlands and one of Scotland's most popular peaks. Rising high above Loch Tay, it is also renowned for its arctic-alpine flora, and is a National Nature Reserve. The mountain is owned by the National Trust for Scotland.",
+        "name": "Ben Lawers",
+        "number_of_climbers": "15029",
+        "rating": "3.9",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/ben-lawers.shtml"
+        ]
+    },
+    "ben-lomond": {
+        "altitude": "974",
+        "description": "Ben Lomond is one of the most familiar and popular of the Munros, its fine summit being in clear view from the south end of the Loch at Balloch. Whilst the path is wide and busy up the slopes, the summit is dramatically situated above a steep corrie and the views over the Loch are unsurpassed.",
+        "name": "Ben Lomond",
+        "number_of_climbers": "19371",
+        "rating": "3.8",
+        "region": "Loch Lomond",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochlomond/ben-lomond.shtml"
+        ]
+    },
+    "ben-lui": {
+        "altitude": "1130",
+        "description": "Ben Lui is a graceful peak, considered by many people to be the finest mountain in the Southern Highlands. It offers its best side towards Dalrigh, and approaches from this side can involve a scramble round either rim of its northeastern corrie, but it is more usually climbed from Glen Lochay, a much shorter route.",
+        "name": "Ben Lui",
+        "number_of_climbers": "7510",
+        "rating": "4.2",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/ben-lui.shtml"
+        ]
+    },
+    "ben-macdui": {
+        "altitude": "1309",
+        "description": "The second highest mountain in Britain, Ben Macdui is in the centre of the arctic-like Cairngorms plateau - a much wilder place than Ben Nevis. Climbed equally frequently from both Deeside and Speyside, the summit is said to be haunted by the wraith-like Old Grey Man.",
+        "name": "Ben Macdui",
+        "number_of_climbers": "9654",
+        "rating": "3.8",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/ben-macdui.shtml "
+        ]
+    },
+    "ben-more": {
+        "altitude": "1174",
+        "description": "Ben More is instantly recognisable, a towering pyramid from near Crianlarich and joined by its near neighbour Stob Binnein in more distant views. Its slopes above Benmore Farm are relentlessly steep.",
+        "name": "Ben More",
+        "number_of_climbers": "9015",
+        "rating": "3.8",
+        "region": "Loch Lomond",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochlomond/ben-more.shtml"
+        ]
+    },
+    "ben-more-assynt": {
+        "altitude": "998",
+        "description": "Ben More Assynt is the highest mountain in the extraordinary landscape of Assynt. It is hidden from the roads, however, by the neighbouring summit of Conival. Ben More has huge, scree girt flanks, a fine approach ridge and a view of total desolation.",
+        "name": "Ben More Assynt",
+        "number_of_climbers": "3871",
+        "rating": "4.0",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/benmoreassynt.shtml"
+        ]
+    },
+    "ben-more-mull": {
+        "altitude": "966",
+        "description": "Ben More is the only island Munro outside Skye. It is a grand, rocky mountain and a fantastic viewpoint for scores of islands dotted around the Minches.",
+        "name": "Ben More (Mull)",
+        "number_of_climbers": "4400",
+        "rating": "4.0",
+        "region": "Isle of Mull",
+        "routes": [
+            "https://www.walkhighlands.co.uk/mull/ben-more-mull.shtml"
+        ]
+    },
+    "ben-nevis": {
+        "altitude": "1345",
+        "description": "The highest mountain in Britain, Ben Nevis certainly attracts the crowds, with hordes of trippers toiling up the long and punishing stony ascent to the summit in the summer months. The North Face, on the other hand, presents a very different prospect, its towering precipices and narrow gullies making up one of the most celebrated rock and ice climbing arenas in the country.",
+        "name": "Ben Nevis",
+        "number_of_climbers": "16763",
+        "rating": "3.9",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/bennevis.shtml"
+        ]
+    },
+    "ben-oss": {
+        "altitude": "1029",
+        "description": "Ben Oss is a rugged mountain, usually climbed from Dalrigh near Tyndrum. It suffers from the proximity of its near and much grander neighbour, Ben Lui.",
+        "name": "Ben Oss",
+        "number_of_climbers": "5625",
+        "rating": "3.4",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/ben-oss.shtml"
+        ]
+    },
+    "ben-starav": {
+        "altitude": "1078",
+        "description": "Ben Starav is an imposing mountain which rears up steeply from the head of Loch Etive. Higher up it has some fine ridges and is a great viewpoint.",
+        "name": "Ben Starav",
+        "number_of_climbers": "4230",
+        "rating": "4.2",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/benstarav.shtml"
+        ]
+    },
+    "ben-vane": {
+        "altitude": "915",
+        "description": "One of the Arrochar Alps, Ben Vane only just makes Munro status but has great character, with very steep and rocky slopes on all sides. Bealachs with other peaks are very low and Ben Vane is usually climbed on its own.",
+        "name": "Ben Vane",
+        "number_of_climbers": "9766",
+        "rating": "3.7",
+        "region": "Loch Lomond",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochlomond/ben-vane.shtml"
+        ]
+    },
+    "ben-vorlich-loch-earn": {
+        "altitude": "985",
+        "description": "Ben Vorlich above Loch Earn is one of the best-known Scottish mountains and is very popular. Close to the Highland boundary, it gives excellent views into the Lowlands.",
+        "name": "Ben Vorlich (Loch Earn)",
+        "number_of_climbers": "14065",
+        "rating": "3.3",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/ben-vorlich.shtml"
+        ]
+    },
+    "ben-vorlich-loch-lomond": {
+        "altitude": "943",
+        "description": "Ben Vorlich towers above the west side of the head of Loch Lomond; although close to the road its steep sides mean it is still a tough ascent. The Inveruglas hydro-electric power station is on its eastern flanks, with pipelines running through the mountain from Loch Sloy. It is usually climbed by a steep ascent on the Loch Sloy side though a more interesting circuit can be had from Ardlui.",
+        "name": "Ben Vorlich (Loch Lomond)",
+        "number_of_climbers": "9996",
+        "rating": "3.4",
+        "region": "Loch Lomond",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochlomond/ben-vorlich-lomond.shtml"
+        ]
+    },
+    "ben-wyvis": {
+        "altitude": "1046",
+        "description": "Ben Wyvis is an isolated, huge and bulky Munro, rising like an elephant from the lower moors of Easter Ross. Prominent in many views, Ben Wyvis is a well-known and popular ascent.",
+        "name": "Ben Wyvis",
+        "number_of_climbers": "6534",
+        "rating": "3.3",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/Benwyvis.shtml"
+        ]
+    },
+    "bidean-nam-bian": {
+        "altitude": "1150",
+        "description": "Bidean nam Bian is more a mountain range than a single mountain, a huge and complex mass of dramatic crags, ridges and summits towering on the south side of Glen Coe. The main summit is hidden from the road behind the Three Sisters - three great prows - and the top of Stob Coire nan Lochain.",
+        "name": "Bidean nam Bian",
+        "number_of_climbers": "7224",
+        "rating": "4.6",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/bideannambian.shtml"
+        ]
+    },
+    "bidein-a-choire-sheasgaich": {
+        "altitude": "945",
+        "description": "One of the remotest Munros, Bidein a' Choire Sheasgaich is a magnificent peak hidden away in the wilderness above Loch Monar. Reaching its foot from any direction is arduous, with much ascent and descent.",
+        "name": "Bidein a' Choire Sheasgaich",
+        "number_of_climbers": "1534",
+        "rating": "4.0",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/bideinachoiresheasgaich.shtml"
+        ]
+    },
+    "bidein-a-ghlas-thuill-an-teallach": {
+        "altitude": "1062",
+        "description": "Bidein a' Ghlas Thuill is the highest summit of magnificent An Teallach, and despite being less dramatic than neighbouring Sgurr Fiona it is the best viewpoint on the mountain and one of the most dramatic in Britain. Usually tackled as part of a complete ridge traverse, it can equally well be climbed on its own.",
+        "name": "Bidein a' Ghlas Thuill (An Teallach)",
+        "number_of_climbers": "3873",
+        "rating": "4.5",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/anteallach.shtml"
+        ]
+    },
+    "binnein-beag": {
+        "altitude": "943",
+        "description": "Binnein Beag is an outlier of the Mamores and the most remote peak in the range. Although close by its much higher neighbour Binnein Mor, Binnein Beag is a steep-sided cone and admits of no inferioty to its higher siblings.",
+        "name": "Binnein Beag",
+        "number_of_climbers": "3308",
+        "rating": "3.5",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/sgurreildemor.shtml"
+        ]
+    },
+    "binnein-mor": {
+        "altitude": "1130",
+        "description": "Binnein Mor is the highest summit of the magnificent Mamores range, one of the best mountain ranges in Scotland for keen hillwalkers. It is also a fine and graceful mountain in its own right. The views are tremendous, especially across to Ben Nevis and down onto its lower neighbours.",
+        "name": "Binnein Mor",
+        "number_of_climbers": "4014",
+        "rating": "4.1",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/binneinmor.shtml"
+        ]
+    },
+    "bla-bheinn": {
+        "altitude": "928",
+        "description": "Bla Bheinn - or Blaven as it is often anglicised - stands apart from the rest of the Cuillin Ridge on Skye. Towering magnificently above Loch Slapin and with its hidden side even more spectacular, it is one of the finest mountains in Britain as well as one of the best viewpoints imaginable.",
+        "name": "Bla Bheinn",
+        "number_of_climbers": "4761",
+        "rating": "4.6",
+        "region": "Isle of Skye",
+        "routes": [
+            "https://www.walkhighlands.co.uk/skye/blabheinn.shtml"
+        ]
+    },
+    "braeriach": {
+        "altitude": "1296",
+        "description": "The third highest mountain in Britain, Braeriach is perhaps the finest of the Cairngorms. Reaching its vast summit plateau requires a long approach walk - this remains a truly wild place - whilst all around the plateau are a vast range of dramatic and beautiful corries.",
+        "name": "Braeriach",
+        "number_of_climbers": "5524",
+        "rating": "4.2",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/braeriach.shtml "
+        ]
+    },
+    "braigh-coire-chruinn-bhalgain": {
+        "altitude": "1070",
+        "description": "The central summit of the Beinn a' Ghlo massif, Braigh Coire Chruinn-bhalgain is a complex hill with twisting ridges and steep sides. It enjoys a fine position above beautiful Glen Tilt.",
+        "name": "Braigh Coire Chruinn-bhalgain",
+        "number_of_climbers": "6520",
+        "rating": "3.5",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/beinn-a-ghlo.shtml"
+        ]
+    },
+    "broad-cairn": {
+        "altitude": "998",
+        "description": "Broad Cairn is part of the vast, rolling Mounth plateau. Most conveniently climbed from Loch Muick, it is best seen from that direction.",
+        "name": "Broad Cairn",
+        "number_of_climbers": "7619",
+        "rating": "3.1",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/white-mounth.shtml "
+        ]
+    },
+    "bruach-na-frithe": {
+        "altitude": "958",
+        "description": "Bruach na Frithe is one of the most straightforward of the Cuillin Munros, and often the first to be climbed. It is hidden from Sligachan by Sgurr a Bhasteir but has a pointed summit though with fewer spectacular crags than its neighbours. It is a superb viewpoint for the main Ridge.",
+        "name": "Bruach na Frithe",
+        "number_of_climbers": "3758",
+        "rating": "4.1",
+        "region": "Isle of Skye",
+        "routes": [
+            "https://www.walkhighlands.co.uk/skye/bruachnafrithe.shtml "
+        ]
+    },
+    "bynack-more": {
+        "altitude": "1090",
+        "description": "Bynack More is the cornerstone of the High Cairngorms to the northeast, its pyramidal summit appearing to be the greatest mountain in the range when seen from much of Moray. From the summit the views are correspondingly extensive. Interest is added by the great tors of the Barns of Bynack down the east side of the ridge.",
+        "name": "Bynack More",
+        "number_of_climbers": "6015",
+        "rating": "3.6",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/bynackmore.shtml"
+        ]
+    },
+    "cairn-bannoch": {
+        "altitude": "1012",
+        "description": "Cairn Bannoch is a fairly insignificant summit on the Mounth plateau to the south of Lochnagar. The most significant feature nearby is the great cliff of Creag an Dubh Loch to the northeast (but out of sight).",
+        "name": "Cairn Bannoch",
+        "number_of_climbers": "7118",
+        "rating": "2.6",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/white-mounth.shtml "
+        ]
+    },
+    "cairn-gorm": {
+        "altitude": "1245",
+        "description": "Cairn Gorm is one of the best known summits in Scotland, and despite not being the highest has lent its name to this whole mountain range. It has heavily developed for ski-ing and by the funicular railway to the Ptarmigan restaurant, detracting greatly from its wildness and the experience of climbing it on foot.",
+        "name": "Cairn Gorm",
+        "number_of_climbers": "11341",
+        "rating": "3.0",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/cairngorm.shtml "
+        ]
+    },
+    "cairn-of-claise": {
+        "altitude": "1064",
+        "description": "Cairn of Claise is a fairly insignificant rise on the wide plateau on the east side of the Cairnwell Pass. A large stone wall crosses close by the summit marking the old county boundary.",
+        "name": "Cairn of Claise",
+        "number_of_climbers": "8705",
+        "rating": "2.4",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/glas-maol.shtml"
+        ]
+    },
+    "cairn-toul": {
+        "altitude": "1291",
+        "description": "Cairn Toul is the most shapely of the high Cairngorms, rising as a giant sentinel above the infant River Dee. It is in a very wild and remote position and many walkers will need an overnight trip to climb it, whether from Deeside or Speyside.",
+        "name": "Cairn Toul",
+        "number_of_climbers": "4695",
+        "rating": "4.0",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/cairn-toul.shtml"
+        ]
+    },
+    "carn-a-chlamain": {
+        "altitude": "963",
+        "description": "Carn a' Chlamain is a stony summit on the edge of a sweeping plateau on the edge of Glen Tilt. The usual approach is up this glen, its great beauty making this a fine walk.",
+        "name": "Carn a' Chlamain",
+        "number_of_climbers": "3978",
+        "rating": "3.2",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/carn-a-chlamain.shtml"
+        ]
+    },
+    "carn-a-choire-bhoidheach": {
+        "altitude": "1118",
+        "description": "Carn a' Choire Bhoidheach is in the centre of the extensive White Mounth plateau. The true summit is a featureless swelling but a short distance further north is the more dramatic Stuic, a minor summit on the edge of two dramatic corries.",
+        "name": "Carn a' Choire Bhoidheach",
+        "number_of_climbers": "7085",
+        "rating": "2.4",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/white-mounth.shtml "
+        ]
+    },
+    "carn-a-gheoidh": {
+        "altitude": "975",
+        "description": "Carn a' Gheoidh is hidden behind the two more familiar Cairnwell munros. It offers a wild and quiet respite to the ski-developments on its two neighbours.",
+        "name": "Carn a' Gheoidh",
+        "number_of_climbers": "9540",
+        "rating": "2.8",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/cairnwell.shtml "
+        ]
+    },
+    "carn-a-mhaim": {
+        "altitude": "1037",
+        "description": "Carn a'Mhaim guards Lairig Ghru on the approach from Braemar. It is joined to mighty Ben Macdui by perhaps the narrowest section of ridge in the Cairngorms - an enjoyable traverse with a steep ascent to gain Macdui at the end.",
+        "name": "Carn a'Mhaim",
+        "number_of_climbers": "4766",
+        "rating": "3.9",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/carn-a-mhaim.shtml"
+        ]
+    },
+    "carn-an-fhidhleir-carn-ealar": {
+        "altitude": "994",
+        "description": "Carn an Fhidhleir is a domed and unspectacular Munro. However it is in the heart of a vast roadless area, requiring an epic approach from either Glen Feshie, Glen Tilt or, more usually, the Linn of Dee - this latter approach is made easier with a mountain bike.",
+        "name": "Carn an Fhidhleir (Carn Ealar)",
+        "number_of_climbers": "2467",
+        "rating": "2.5",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/an-sgarsoch.shtml"
+        ]
+    },
+    "carn-an-righ": {
+        "altitude": "1029",
+        "description": "Carn an Righ is a steep-sided mountain in the heart of the Mounth. It is usually climbed via the Spittal of Glenshee to the southeast.",
+        "name": "Carn an Righ",
+        "number_of_climbers": "3686",
+        "rating": "2.7",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/glas-tulaichean.shtml"
+        ]
+    },
+    "carn-an-t-sagairt-mor": {
+        "altitude": "1047",
+        "description": "Carn an t-Sagairt Mor is on the Mounth plateau to the west of Lochnagar; its southern slopes crossed by an old path to the latter summit from Glen Callater. It is a dome-shaped hill with aircraft wreckage to the north of the summit its best known feature.",
+        "name": "Carn an t-Sagairt Mor",
+        "number_of_climbers": "7147",
+        "rating": "2.6",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/white-mounth.shtml "
+        ]
+    },
+    "carn-an-tuirc": {
+        "altitude": "1019",
+        "description": "Carn an Tuirc is a stony dome, one of four Munros above the east side of the Cairnwell Pass. The summits in this region are arranged on a wide plateau making it possible to devise numerous expeditions taking in multiple peaks.",
+        "name": "Carn an Tuirc",
+        "number_of_climbers": "8755",
+        "rating": "2.8",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/glas-maol.shtml"
+        ]
+    },
+    "carn-aosda": {
+        "altitude": "917",
+        "description": "Carn Aosda is one of the easiest and quickest Munros to climb, but that is its only distinction. The mountain has been heavily developed for ski-ing and pistes, tows and access tracks disfigure its slopes above the Cairnwell pass.",
+        "name": "Carn Aosda",
+        "number_of_climbers": "10406",
+        "rating": "2.1",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/cairnwell.shtml "
+        ]
+    },
+    "carn-bhac": {
+        "altitude": "946",
+        "description": "Carn Bhac is a rounded mountain deep in the wilds of the Mounth south of Inverey. One of the less visited Munros it offers a chance for peace, quiet and contemplation.",
+        "name": "Carn Bhac",
+        "number_of_climbers": "3309",
+        "rating": "2.5",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/beinn-iutharn-mhor.shtml"
+        ]
+    },
+    "carn-dearg-corrour": {
+        "altitude": "941",
+        "description": "Carn Dearg is a remote peak between Rannoch Moor and the Ben Alder range, above Loch Ossian. It can be climbed either from either Corrour or Rannoch stations on the West Highland line.",
+        "name": "Carn Dearg (Corrour)",
+        "number_of_climbers": "2897",
+        "rating": "3.2",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/sgor-gaibhre.shtml"
+        ]
+    },
+    "carn-dearg-loch-pattack": {
+        "altitude": "1034",
+        "description": "Carn Dearg is a wedge-shaped and rather sprawling mountain situated above Culra Bothy in the heart of the Ben Alder forest.",
+        "name": "Carn Dearg (Loch Pattack)",
+        "number_of_climbers": "2418",
+        "rating": "3.1",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/aonach-beag.shtml"
+        ]
+    },
+    "carn-dearg-monadhliath": {
+        "altitude": "945",
+        "description": "Carn Dearg is the highest of the Monadhliath, situated on a fairly slender ridge leading south from the main plateau and quite uncharacteristic of the range. It is usually combined with its neighbours further east.",
+        "name": "Carn Dearg (Monadhliath)",
+        "number_of_climbers": "4082",
+        "rating": "3.1",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/monadhliath.shtml"
+        ]
+    },
+    "carn-eige": {
+        "altitude": "1183",
+        "description": "Carn Eige is the highest of all the mountains north of the Great Glen, and forms the culminating point of the great range of peaks on the north side of beautiful Glen Affric. It is almost always climbed together with its twin and near neighbour, Mam Sodhail.",
+        "name": "Carn Eige",
+        "number_of_climbers": "2322",
+        "rating": "3.7",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/carn-eige.shtml"
+        ]
+    },
+    "carn-ghluasaid": {
+        "altitude": "957",
+        "description": "Carn Ghluasaid is reached by a fine stalkers path from the north side of Loch Cluanie. The other side of the mountain collapses in broken crags down to Coire Sgreumh. The mountain is really quite a minor subsidiary summit of Sgurr nan Conbhairean - wth less than 60m of ascent if coming up from the direction of its parent peak.",
+        "name": "Carn Ghluasaid",
+        "number_of_climbers": "3432",
+        "rating": "3.0",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/sgurrnanconbhairean.shtml"
+        ]
+    },
+    "carn-gorm": {
+        "altitude": "1029",
+        "description": "Carn Gorm is one of a group of four Munros on the north side of Glen Lyon that are usually climbed together. Its summit is a broad dome with little distinction but there are good views of the glen.",
+        "name": "Carn Gorm",
+        "number_of_climbers": "8165",
+        "rating": "3.0",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/carn-mairg.shtml"
+        ]
+    },
+    "carn-liath-beinn-a-ghlo": {
+        "altitude": "975",
+        "description": "Carn Liath is the lowest of Beinn a' Ghlo's three summits, but it is also the most accessible - and the most prominent when seen from the main A9 road.",
+        "name": "Carn Liath (Beinn a' Ghlo)",
+        "number_of_climbers": "7174",
+        "rating": "3.3",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/beinn-a-ghlo.shtml"
+        ]
+    },
+    "carn-liath-creag-meagaidh": {
+        "altitude": "1006",
+        "description": "Carn Liath is an eastern outlier of the Creag Meagaidh range and is a rather sprawling and undistinguished hill.",
+        "name": "Carn Liath (Creag Meagaidh)",
+        "number_of_climbers": "4665",
+        "rating": "2.8",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/creagmeagaidh.shtml"
+        ]
+    },
+    "carn-mairg": {
+        "altitude": "1042",
+        "description": "Carn Mairg is the highest of a range of four Munros on the north side of Glen Lyon above Invervar. Alone amongst the four its summit has small crags and a distinctive form.",
+        "name": "Carn Mairg",
+        "number_of_climbers": "7845",
+        "rating": "3.2",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/carn-mairg.shtml"
+        ]
+    },
+    "carn-mor-dearg": {
+        "altitude": "1220",
+        "description": "Carn Mor Dearg may be one of the highest mountains in Britain, but it is completely overshadowed by Ben Nevis. It is the perfect viewpoint from which to admire the Ben's magnificent North Face. Its graceful peak crowns a fine ridge - joined to its great neighbour by the celebrated Carn Mor Dearg arete.",
+        "name": "Carn Mor Dearg",
+        "number_of_climbers": "6092",
+        "rating": "4.1",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/carnmordeargarete.shtml"
+        ]
+    },
+    "carn-na-caim": {
+        "altitude": "941",
+        "description": "Carn na Caim is the more northerly of the two Munros on the wide plateau guarding the east side of the Drumochter Pass. The approach to the summit is boggy but the views are better than might be imagined.",
+        "name": "Carn na Caim",
+        "number_of_climbers": "5257",
+        "rating": "2.1",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/carn-na-caim.shtml"
+        ]
+    },
+    "carn-nan-gabhar": {
+        "altitude": "1121",
+        "description": "Carn nan Gabhar is the highest and remotest summit of Beinn a' Ghlo. It offers views across the empty wilderness of the Mounth and makes a fine termination to a grand  ridge-walk.",
+        "name": "Carn nan Gabhar",
+        "number_of_climbers": "6115",
+        "rating": "3.9",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/beinn-a-ghlo.shtml"
+        ]
+    },
+    "carn-nan-gobhar-loch-mullardoch": {
+        "altitude": "992",
+        "description": "One of two Munros of the same name in close proximity, this Carn nan Gobhar rises between Loch Mullardoch and Glen Strathfarrar. It is a fairly rounded peak and rather overshadowed by its more dramatic neighbour Sgurr na Lapaich.",
+        "name": "Carn nan Gobhar (Loch Mullardoch)",
+        "number_of_climbers": "2229",
+        "rating": "2.7",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/mullardoch-munros.shtml"
+        ]
+    },
+    "carn-nan-gobhar-strathfarrar": {
+        "altitude": "992",
+        "description": "Carn nan Gobhar is a rounded hill on the north Strathfarrar ridge. The generally easy slopes are topped with a summit area covered in awkward angular boulders. There are good views over the Beauly and Cromarty Firths.",
+        "name": "Carn nan Gobhar (Strathfarrar)",
+        "number_of_climbers": "2443",
+        "rating": "3.0",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/strathfarrar-munros.shtml"
+        ]
+    },
+    "carn-sgulain": {
+        "altitude": "920",
+        "description": "Carn Sgulain is one of the least interesting Munros, a featureless pudding in the Monadhliath and much inferior to neighbouring A' Chailleach. The intervening ground is riven by a steep little grassy gully so even the short walk across to Carn Sgulain is a little irritating!",
+        "name": "Carn Sgulain",
+        "number_of_climbers": "4239",
+        "rating": "1.9",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/monadhliath.shtml"
+        ]
+    },
+    "chno-dearg": {
+        "altitude": "1046",
+        "description": "Chno Dearg is one of the less distinguished mountains on the south side of Glen Spean, its rounded dome lacking any distinctive features.",
+        "name": "Chno Dearg",
+        "number_of_climbers": "3628",
+        "rating": "2.7",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/chnodearg.shtml"
+        ]
+    },
+    "ciste-dhubh": {
+        "altitude": "979",
+        "description": "Ciste Dhubh is a dramatically pointed summit set some way back from Cluanie and Glen Shiel. It is a fine and very distinctive peak of great character.",
+        "name": "Ciste Dhubh",
+        "number_of_climbers": "2879",
+        "rating": "4.1",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Cistedhubh.shtml"
+        ]
+    },
+    "cona-mheall": {
+        "altitude": "978",
+        "description": "Cona' Mheall is a fine stony ridge to the east of the main bulk of the Beinn Dearg range. It offers tremendous views across the wild and rocky Coire Ghrunnda.",
+        "name": "Cona' Mheall",
+        "number_of_climbers": "2911",
+        "rating": "3.8",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/beinndearg.shtml"
+        ]
+    },
+    "conival": {
+        "altitude": "987",
+        "description": "Conival is in view from Inchnadamph but is rather retiring compared to the lower peaks such as Quinag. Composed of Lewissian Gneiss - one of the oldest rocks on the planet - the mountain gives a steep ascent with tricky terrain. The view is of an otherworldly wilderness of lochs and moors, whilst a fine ridge connects with the neighbouring and higher Ben More Assynt.",
+        "name": "Conival",
+        "number_of_climbers": "4010",
+        "rating": "3.8",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/benmoreassynt.shtml"
+        ]
+    },
+    "creag-a-mhaim": {
+        "altitude": "947",
+        "description": "Creag a'Mhaim is the easternmost of the seven Munros on the South Cluanie ridge, and usually the first to be climbed. It suffers by comparison to its neighbours further along the ridge.",
+        "name": "Creag a'Mhaim",
+        "number_of_climbers": "4873",
+        "rating": "3.1",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Glenshielridge.shtml"
+        ]
+    },
+    "creag-leacach": {
+        "altitude": "987",
+        "description": "Creag Leacach is a stony mountain rising prominently above the Devil's Elbow on the road up the Cairnwell Pass. It is normally ascended as part of the round of the four Munros on the east side of the pass; we also give a more attractive alternative route, starting in Glen Isla.",
+        "name": "Creag Leacach",
+        "number_of_climbers": "8534",
+        "rating": "3.3",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/glas-maol.shtml"
+        ]
+    },
+    "creag-meagaidh": {
+        "altitude": "1130",
+        "description": "Creag Meagaidh is a vast plateau, and one of the higher mountains of the central Highlands - often recognisable from afar due to the distinctive cleft of the Window. The mountain is chiefly famed for the magnificent Coire Ardair,  second only to Ben Nevis as mecca for ice-climbers.",
+        "name": "Creag Meagaidh",
+        "number_of_climbers": "4789",
+        "rating": "4.0",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/creagmeagaidh.shtml"
+        ]
+    },
+    "creag-mhor-glen-lochay": {
+        "altitude": "1047",
+        "description": "Creag Mhor is at the head of Glen Lochay and forms a very steep-sided ridge. Access is eased by the hydro track running across the side of the glen.",
+        "name": "Creag Mhor (Glen Lochay)",
+        "number_of_climbers": "2925",
+        "rating": "3.1",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/beinn-heasgarnich.shtml"
+        ]
+    },
+    "creag-mhor-meall-na-aighean": {
+        "altitude": "981",
+        "description": "Meall na Aighean (named Creag Mhor on older maps) is one of a group of four rounded Munros on the north side of Glen Lyon.",
+        "name": "Creag Mhor (Meall na Aighean)",
+        "number_of_climbers": "7664",
+        "rating": "2.8",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/carn-mairg.shtml"
+        ]
+    },
+    "creag-nan-damh": {
+        "altitude": "918",
+        "description": "Creag nan Damh is the final peak on the South Glen Shiel Ridge. It only just qualifies as a Munro and appears insignificant compared to some of its neighbours.",
+        "name": "Creag nan Damh",
+        "number_of_climbers": "4474",
+        "rating": "3.2",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Glenshielridge.shtml"
+        ]
+    },
+    "creag-pitridh": {
+        "altitude": "924",
+        "description": "This diminutive Munro is dwarfed by its higher neighbours Geal Charn and Beinn a' Chlachair and its inclusion with them requires little extra effort. However its position high above Lochan na h-Earba makes it a fabulous viewpoint.",
+        "name": "Creag Pitridh",
+        "number_of_climbers": "3143",
+        "rating": "3.0",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/beinn-a-chlachair.shtml"
+        ]
+    },
+    "creise": {
+        "altitude": "1100",
+        "description": "Criese is the mid-point and summit of a fine ridge running from Clach Leathad (formerly regarded as the true summit) and the steep nose of Sron na Creise, the finest feature of the mountain as seen in the photo.",
+        "name": "Creise",
+        "number_of_climbers": "5017",
+        "rating": "3.9",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/creise.shtml"
+        ]
+    },
+    "cruach-ardrain": {
+        "altitude": "1046",
+        "description": "Cruach Ardrain is a steep mountain rising to the south of Crianlarich, its distinctive outline being a familiar sight from many surrounding hills. It can also be climbed with its neighbour Beinn Tulaichean from the south.",
+        "name": "Cruach Ardrain",
+        "number_of_climbers": "7183",
+        "rating": "3.6",
+        "region": "Loch Lomond",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochlomond/cruach-ardrain.shtml"
+        ]
+    },
+    "derry-cairngorm": {
+        "altitude": "1155",
+        "description": "Derry Cairngorm is often mistaken for Ben Macdui in views from Deeside, its great summit cone rising above the foothills. It is one of the best viewpoints for Ben Macdui, seen above the grand Coire Uaine.",
+        "name": "Derry Cairngorm",
+        "number_of_climbers": "4766",
+        "rating": "3.3",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/ben-macdui.shtml"
+        ]
+    },
+    "driesh": {
+        "altitude": "947",
+        "description": "To residents of Dundee, Driesh is one of the best-known and most climbed Munros. It rises steeply above Glen Doll in the upper part of Glen Clova but the summit area is much more rounded and less dramatic.",
+        "name": "Driesh",
+        "number_of_climbers": "10777",
+        "rating": "3.2",
+        "region": "Angus",
+        "routes": [
+            "https://www.walkhighlands.co.uk/angus/mayar-driesh.shtml"
+        ]
+    },
+    "druim-shionnach": {
+        "altitude": "987",
+        "description": "Druim Shionnach is the second Munro on the South Glen Shiel Ridge. It is a narrow section of the traverse with a little scrambling on the ascent from the east.",
+        "name": "Druim Shionnach",
+        "number_of_climbers": "4877",
+        "rating": "3.5",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Glenshielridge.shtml"
+        ]
+    },
+    "eididh-nan-clach-geala": {
+        "altitude": "927",
+        "description": "Eididh nan Clach Geala rises steeply above Lochan a' Chnapaich; on the other sides its slopes are more gentle. It enjoys stunning views northwest towards the distinctive mountains of Assynt and the Summer Isles.",
+        "name": "Eididh nan Clach Geala",
+        "number_of_climbers": "2931",
+        "rating": "3.3",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/beinndearg.shtml"
+        ]
+    },
+    "fionn-bheinn": {
+        "altitude": "933",
+        "description": "Technically one of the Fannichs, Fionn Bheinn is isolated from the other peaks and is nearly always climbed from Achnasheen. It is a rounded mountain but offers fine views of the nearby Torridon giants.",
+        "name": "Fionn Bheinn",
+        "number_of_climbers": "3739",
+        "rating": "2.9",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/Fionnbheinn.shtml"
+        ]
+    },
+    "gairich": {
+        "altitude": "919",
+        "description": "Gairich is a distinctive solitary Munro on the south side of Loch Quioch. Nearly always climbed from the Loch Quioch Dam, it gives a fine outing.",
+        "name": "Gairich",
+        "number_of_climbers": "2341",
+        "rating": "3.8",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/gairich.shtml "
+        ]
+    },
+    "garbh-chioch-mhor": {
+        "altitude": "1013",
+        "description": "Garbh Chioch Mhor is an extremely rough and rocky ridge of immense character on the edge of Knoydart. It is normally traversed en-route to the even grander cone-shaped peak of Sgurr na Ciche.",
+        "name": "Garbh Chioch Mhor",
+        "number_of_climbers": "1901",
+        "rating": "3.7",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/sgurrnaciche.shtml"
+        ]
+    },
+    "geal-charn": {
+        "altitude": "1049",
+        "description": "Geal Charn is a rather sprawling mountain in the Beinn a' Chlachair group. Its most notable feature is the summit, with a very fine cairn and cylindrical trig point atop a graceful little cone.",
+        "name": "Geal Charn",
+        "number_of_climbers": "3169",
+        "rating": "2.9",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/beinn-a-chlachair.shtml"
+        ]
+    },
+    "geal-charn-alder": {
+        "altitude": "1132",
+        "description": "This is the highest of several Munros by the name of Geal Charn. A very remote peak, it is in the centre of a great ridge between Ben Alder and the Loch Laggan area; its finest feature is the Lancet Edge, a dramatic ridge pluging down to Culra.",
+        "name": "Geal-charn (Alder)",
+        "number_of_climbers": "2542",
+        "rating": "3.3",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/aonach-beag.shtml"
+        ]
+    },
+    "geal-charn-drumochter": {
+        "altitude": "917",
+        "description": "There are several Geal-Charns; this one is on the north side of the Drumochter Pass. It is a rounded dome which can be quickly reached from Balsporran Cottages, and formerly had a line of very prominent cairns some distance short of its summit.",
+        "name": "Geal-charn (Drumochter)",
+        "number_of_climbers": "6899",
+        "rating": "2.7",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/a-mharconaich.shtml "
+        ]
+    },
+    "geal-charn-monadhliath": {
+        "altitude": "926",
+        "description": "Geal Charn is separated from the other Monadhliath Munros by several miles of rolling moorland and bogs, and is usually climbed on its own from either Garva Bridge or the Spey dam.",
+        "name": "Geal Charn (Monadhliath)",
+        "number_of_climbers": "4058",
+        "rating": "2.6",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/geal-charn.shtml"
+        ]
+    },
+    "glas-bheinn-mhor": {
+        "altitude": "997",
+        "description": "Glas Bheinn Mhor is a peaked summit to the east of mighty Ben Starav in the range on the south side of Glen Etive.",
+        "name": "Glas Bheinn Mhor",
+        "number_of_climbers": "3651",
+        "rating": "3.5",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/benstarav.shtml"
+        ]
+    },
+    "glas-maol": {
+        "altitude": "1068",
+        "description": "Glas Maol is the highest of a group of four Munros to the east of the Cairnwell Pass, and has been developed for skiing. The road gives a high-level starting point and eases the ascent of these rounded domes, though the alternative route given from Glen Isla via Monega Hill gives a much finer walk.",
+        "name": "Glas Maol",
+        "number_of_climbers": "9358",
+        "rating": "2.8",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/glas-maol.shtml"
+        ]
+    },
+    "glas-tulaichean": {
+        "altitude": "1051",
+        "description": "Glas Tulaichean is a big dome-shaped mountain usually climbed from the Spittal of Glenshee. A landrover track leads almost all the way to the summit, whilst the lower slopes were once accessed by a private railway.",
+        "name": "Glas Tulaichean",
+        "number_of_climbers": "4394",
+        "rating": "2.9",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/glas-tulaichean.shtml"
+        ]
+    },
+    "gleouraich": {
+        "altitude": "1035",
+        "description": "Gleouraich is a very fine mountain on the north side of Loch Quioch. It has grand corries and is part of an excellent ridgewalk, but perhaps the most interesting feature is the amazing stalkers path up the southwest ridge.",
+        "name": "Gleouraich",
+        "number_of_climbers": "3164",
+        "rating": "4.2",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/spideanmialach.shtml"
+        ]
+    },
+    "gulvain": {
+        "altitude": "987",
+        "description": "Gulvain is a fine, remote peak with two summits, the highest mountain in the wild area between Loch Eil and Loch Arkaig.",
+        "name": "Gulvain",
+        "number_of_climbers": "2186",
+        "rating": "3.6",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/gulvain.shtml"
+        ]
+    },
+    "inaccessible-pinnacle": {
+        "altitude": "986",
+        "description": "The Inaccessible Pinnacle (often abbreviated to the In Pinn) is the second highest summit in the Skye Cuillin. It is notorious as the most difficult of the Munros, requiring a rock-climb and an abseil (and suitable experience or help from an expert) to complete the ascent. It rises from the summit of Sgurr Dearg.Photo: Ian Jeffrey",
+        "name": "Inaccessible Pinnacle",
+        "number_of_climbers": "3118",
+        "rating": "4.6",
+        "region": "Isle of Skye",
+        "routes": [
+            "https://www.walkhighlands.co.uk/skye/innpinn.shtml"
+        ]
+    },
+    "ladhar-bheinn": {
+        "altitude": "1020",
+        "description": "Deep in the wild Knoydart peninsula, Ladhar Bheinn usually requires an overnight stay. It is a truly magnificent mountain with a perfect position right on one of the most dramatic parts of the West Highlands seaboard. Dramatic ridges, multiple summits and an awesome corrie.",
+        "name": "Ladhar Bheinn",
+        "number_of_climbers": "2291",
+        "rating": "4.5",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/ladhar-bheinn.shtml"
+        ]
+    },
+    "lochnagar": {
+        "altitude": "1155",
+        "description": "Lochnagar is one of the most celebrated of the Munros, a pointed summit rising high above one of Scotland's most beautiful corries. It was also featured in a poem by Lord Byron, ending with the following lines:England thy beauties are tame and domesticTo one who has roved on the mountains afarOh! For the crags that are wild and magesticThe steep frowning glories of dark Lochnagar.",
+        "name": "Lochnagar",
+        "number_of_climbers": "10341",
+        "rating": "4.3",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/lochnagar.shtml"
+        ]
+    },
+    "luinne-bheinn": {
+        "altitude": "939",
+        "description": "Luinne Bheinn (known to some Gaelic pronunciation-challenged walkers as Loony Bin) is a very rocky and rough mountain in the heart of the Knoydart peninsula, and a superb viewpoint.",
+        "name": "Luinne Bheinn",
+        "number_of_climbers": "2056",
+        "rating": "3.9",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/luinne-bheinn.shtml"
+        ]
+    },
+    "lurg-mhor": {
+        "altitude": "986",
+        "description": "Lurg Mhor is one of the remotest of all Munros. It lacks the grandeur of neighbouring Bidean a' Choire Sheasgaich but nonetheless enjoys a wild atmosphere, and looks grand when seen from the east.",
+        "name": "Lurg Mhor",
+        "number_of_climbers": "1523",
+        "rating": "3.8",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/bideinachoiresheasgaich.shtml"
+        ]
+    },
+    "mam-sodhail": {
+        "altitude": "1181",
+        "description": "Mam Sodhail is a twin to the neighbouring Carn Eige, the two highest peaks north of the great glen. It is supported by fine ridges high above the shores of beautiful Loch Affric.",
+        "name": "Mam Sodhail",
+        "number_of_climbers": "2437",
+        "rating": "3.5",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/carn-eige.shtml"
+        ]
+    },
+    "maoile-lunndaidh": {
+        "altitude": "1007",
+        "description": "Maoile Lunndaidh is a very remote mountain at the head of Loch Monar, though it is usually ascended from Glencarron. It takes the form of a spacious plateau with several steep corries. Creag Toll a' Choin has recently been resurveyed as being the highest summit, but the Walkhighlands' route goes over both.",
+        "name": "Maoile Lunndaidh",
+        "number_of_climbers": "1560",
+        "rating": "3.1",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/maoilelunndaidh.shtml"
+        ]
+    },
+    "maol-chean-dearg": {
+        "altitude": "933",
+        "description": "Maol Chean-dearg is a dramatic, steep sided dome of Torridonian sandstone in the wonderful Coulin Forest between Torridon and Strathcarron. On the north side it plunges in crags down to a lochan and has an awe-inspiring outlook over the Torridon peaks.",
+        "name": "Maol Chean-dearg",
+        "number_of_climbers": "3047",
+        "rating": "3.7",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/Maolcheandearg.shtml"
+        ]
+    },
+    "maol-chinn-dearg": {
+        "altitude": "981",
+        "description": "Maol chinn-dearg is one of the seven Munros on the South Cluanie Ridge. The long ridge to the northeast offers an escape to the glen.",
+        "name": "Maol chinn-dearg",
+        "number_of_climbers": "4826",
+        "rating": "3.4",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Glenshielridge.shtml"
+        ]
+    },
+    "mayar": {
+        "altitude": "928",
+        "description": "Mayar is a bump-like summit on the southern part of the Angus / Mounth plateau. It is usually ascended with its near neighbour, Driesh.",
+        "name": "Mayar",
+        "number_of_climbers": "11120",
+        "rating": "3.3",
+        "region": "Angus",
+        "routes": [
+            "https://www.walkhighlands.co.uk/angus/mayar-driesh.shtml"
+        ]
+    },
+    "meall-a-bhuiridh": {
+        "altitude": "1108",
+        "description": "Meall a' Bhuiridh is the highest of the Black Mount and has a good position on the edge of Rannoch Moor, making it a grand viewpoint. The sense of wildness on the ascent is rather lessened by ski-tows almost to the summit.",
+        "name": "Meall a'Bhuiridh",
+        "number_of_climbers": "5536",
+        "rating": "3.1",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/creise.shtml"
+        ]
+    },
+    "meall-a-choire-leith": {
+        "altitude": "926",
+        "description": "Meall a' Choire Leith is an outlier of the Ben Lawers group. A vast, flat-topped dome, it is not the most distinctive of the group.",
+        "name": "Meall a' Choire Leith",
+        "number_of_climbers": "7189",
+        "rating": "2.6",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/meall-corranaich.shtml"
+        ]
+    },
+    "meall-a-chrasgaidh": {
+        "altitude": "934",
+        "description": "Meall a' Chrasgaidh is a minor, rounded summit just off the ridge between Sgurr Mor and Sgurr nan Clach Geala. It lacks any distinguishing features and is very much overshadowed by its more illustrious neighbours.",
+        "name": "Meall a' Chrasgaidh",
+        "number_of_climbers": "3260",
+        "rating": "2.5",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/sgurrnanclachgeala.shtml"
+        ]
+    },
+    "meall-buidhe-glen-lyon": {
+        "altitude": "932",
+        "description": "Meall Buidhe is a north-south ridge in an area of wide moorlands, though the Glas Choire on its eastern side does add some character. It is one of the easiest and quickest Munros to climb from Loch an Damh.",
+        "name": "Meall Buidhe (Glen Lyon)",
+        "number_of_climbers": "5807",
+        "rating": "3.0",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/meall-buidhe.shtml"
+        ]
+    },
+    "meall-buidhe-knoydart": {
+        "altitude": "946",
+        "description": "Meall Buidhe is an incredibly rough and rocky mountain, one of the three magnificent Munros on the Knoydart peninsula. Whichever route is chosen, the ascent requires considerable effort.",
+        "name": "Meall Buidhe (Knoydart)",
+        "number_of_climbers": "2018",
+        "rating": "3.9",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/luinne-bheinn.shtml"
+        ]
+    },
+    "meall-chuaich": {
+        "altitude": "951",
+        "description": "This undistinguished hill hidden up a glen near Dalwhinnie offers one of the shorter and more straightforward ascents amongst the Munros. The usual approach follows some hydro-electric scheme works before an ascent up a broad dome. The position gives it great views over Badenoch, however.",
+        "name": "Meall Chuaich",
+        "number_of_climbers": "5449",
+        "rating": "2.8",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/meall-chuaich.shtml"
+        ]
+    },
+    "meall-corranaich": {
+        "altitude": "1069",
+        "description": "Meall Corranaich is part of the Ben Lawers range, and is well seen from the Lawers visitor centre. It can be climbed from there up a steep ridge but is more usually ascended from the northwest, starting from the summit of the pass.",
+        "name": "Meall Corranaich",
+        "number_of_climbers": "7865",
+        "rating": "3.0",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/meall-corranaich.shtml"
+        ]
+    },
+    "meall-dearg-aonach-eagach": {
+        "altitude": "953",
+        "description": "Meall Dearg is the central summit on the celebrated Aonach Eagach ridge. Usually reached as part of the hard scramble along the ridge en route to Sgorr nam Fiannaidh, it can be ascended on its own by vertigo sufferers by an approach from the north side.",
+        "name": "Meall Dearg (Aonach Eagach)",
+        "number_of_climbers": "5880",
+        "rating": "4.6",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/aonacheagach.shtml"
+        ]
+    },
+    "meall-garbh-ben-lawers": {
+        "altitude": "1118",
+        "description": "Meall Garbh is one of the Ben Lawers range, exactly the same height as neighbouring An Stuc. It is part of the fine round of the corrie containing Lochan nan Cat.",
+        "name": "Meall Garbh (Ben Lawers)",
+        "number_of_climbers": "7839",
+        "rating": "3.3",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/meall-garbh.shtml"
+        ]
+    },
+    "meall-garbh-carn-mairg": {
+        "altitude": "968",
+        "description": "Meall Garbh is one of the group of four rounded Munros on the north side of Glen Lyon, usually climbed with its neighbours. It lacks any distinctive form.",
+        "name": "Meall Garbh (Carn Mairg)",
+        "number_of_climbers": "7968",
+        "rating": "2.6",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/carn-mairg.shtml"
+        ]
+    },
+    "meall-ghaordaidh": {
+        "altitude": "1039",
+        "description": "Meall Ghaordaidh is not a particularly distinguished peak. The usual ascent from Glen Lochay reveals it is a featureless lump.  It does look finer from Glen Lyon to the north, supported by two buttresses.",
+        "name": "Meall Ghaordaidh",
+        "number_of_climbers": "5676",
+        "rating": "2.9",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/meall-ghaordaidh.shtml"
+        ]
+    },
+    "meall-glas": {
+        "altitude": "959",
+        "description": "Meall Glas is a fairly undistinguished Munro between Glen Dochart and Glen Lochay. The ascent is possible from either glen.",
+        "name": "Meall Glas",
+        "number_of_climbers": "4232",
+        "rating": "2.6",
+        "region": "Loch Lomond",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochlomond/meall-glas.shtml"
+        ]
+    },
+    "meall-gorm": {
+        "altitude": "949",
+        "description": "Meall Gorm is on the Fannichs ridge. It occupies a fine position, with four fine corries along its northeastern side each holding its own lochan.",
+        "name": "Meall Gorm",
+        "number_of_climbers": "2653",
+        "rating": "2.8",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/fannichs.shtml "
+        ]
+    },
+    "meall-greigh": {
+        "altitude": "1001",
+        "description": "The easternmost of the Lawers range, Meall Greigh is fairly shapeless and sprawling, usually traversed en-route to Meall Garbh. With no higher peaks through the eastern ark it does enjoy extensive views.",
+        "name": "Meall Greigh",
+        "number_of_climbers": "7405",
+        "rating": "2.6",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/meall-garbh.shtml"
+        ]
+    },
+    "meall-na-teanga": {
+        "altitude": "918",
+        "description": "Meall na Teanga is a steep dome, one of the two Loch Lochy Munros, rising above the forestry as seen from the A82 on the opposite side of the loch. Its rounded summit has several satellite peaks, divided by scooped coires.",
+        "name": "Meall na Teanga",
+        "number_of_climbers": "3374",
+        "rating": "3.3",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/lochlochymunros.shtml"
+        ]
+    },
+    "meall-nan-ceapraichean": {
+        "altitude": "977",
+        "description": "Meall nan Ceapraichean is a stony summit to the north of Beinn Dearg. It is usually traversed together with its neighbours and has particularly good views to the northwest.",
+        "name": "Meall nan Ceapraichean",
+        "number_of_climbers": "3052",
+        "rating": "3.1",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/beinndearg.shtml"
+        ]
+    },
+    "meall-nan-eun": {
+        "altitude": "928",
+        "description": "Meall nan Eun is a dome-like Munro with a very rounded summit but extremely steep sides. The plateau-like top of the mountain unfortunately robs the views of any depth.",
+        "name": "Meall nan Eun",
+        "number_of_climbers": "2888",
+        "rating": "2.8",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/stobcoiranalbannaich.shtml"
+        ]
+    },
+    "meall-nan-tarmachan": {
+        "altitude": "1044",
+        "description": "Meall nan Tarmachan is the only Munro summit on the Tarmachan ridge. It can be climbed quickly from Lochain na Lairige but is usually enjoyed as part of a very enjoyable and rocky scramble along the whole ridge. The ridge is very prominent from Killin.",
+        "name": "Meall nan Tarmachan",
+        "number_of_climbers": "10066",
+        "rating": "4.1",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/meall-nan-tarmachan.shtml"
+        ]
+    },
+    "monadh-mor": {
+        "altitude": "1113",
+        "description": "Monadh Mor is a vast plateau in the very heart of the wild Cairngorms. Its ascent - usually combined with Beinn Bhrotain - requires a great deal of effort, whether approached across the vast plateaux from Glen Feshie or via the more obvious route past White Bridge and the Linn of Dee, or up Glen Geusachan.",
+        "name": "Monadh Mor",
+        "number_of_climbers": "2918",
+        "rating": "2.8",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/beinn-bhrotain.shtml"
+        ]
+    },
+    "moruisg": {
+        "altitude": "928",
+        "description": "Moruisg is a very prominent mountain rising like a beached whale above upper Glen Carron. Unfortunately the usual ascent route is up a wide and soggy slope with few features to break the effort.",
+        "name": "Moruisg",
+        "number_of_climbers": "2800",
+        "rating": "2.6",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/Moruisg.shtml"
+        ]
+    },
+    "mount-keen": {
+        "altitude": "939",
+        "description": "Mount Keen is the most easterly of the Munros, a cone-shaped summit rearing above the great sea of the Mounth plateau. It can be climbed quickly from Glen Esk, or more scenically via Glen Tanar.",
+        "name": "Mount Keen",
+        "number_of_climbers": "9242",
+        "rating": "3.1",
+        "region": "Angus",
+        "routes": [
+            "https://www.walkhighlands.co.uk/angus/mount-keen.shtml"
+        ]
+    },
+    "mullach-an-rathain-liathach": {
+        "altitude": "1023",
+        "description": "Mullach an Rathain is the westernmost of the two Munros on the ridge of Liathach, one of the very finest in the Highlands. It offers tremendous views down Loch Torridon and the sea as a reward for the tackling of its extremely steep slopes.",
+        "name": "Mullach an Rathain (Liathach)",
+        "number_of_climbers": "3854",
+        "rating": "4.7",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/Liathach.shtml"
+        ]
+    },
+    "mullach-clach-a-bhlair": {
+        "altitude": "1019",
+        "description": "Mullach Clach a'Bhlair has an insignificant summit towards the southern end of the great plateau that stretches northwards to Sgor Gaoith and eastwards to Cairn Toul. Its finest features are seen on the approach from beautifully-wooded Glen Feshie, with Coire Garbhlach.",
+        "name": "Mullach Clach a'Bhlair",
+        "number_of_climbers": "4170",
+        "rating": "2.6",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/mullach-clach-a-bhlair.shtml"
+        ]
+    },
+    "mullach-coire-mhic-fhearchair": {
+        "altitude": "1019",
+        "description": "Mullach Coire Mhic Fhearchair is an extremely remote Munro in the Fisherfield Forest or Great Wilderness. Added to the length of the approach from any direction is the difficulty of walking along the ridge, which is covered in angular quartzite boulders.",
+        "name": "Mullach Coire Mhic Fhearchair",
+        "number_of_climbers": "1993",
+        "rating": "3.8",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/fisherfield-6.shtml"
+        ]
+    },
+    "mullach-fraoch-choire": {
+        "altitude": "1102",
+        "description": "Mullach Fraoch-Choire may be hidden from Cluanie but it is one of the finest mountains of the region. Approached from a' Chralaig, the final ridge is riven into a series of exposed pinnacles , and the summit views over Glen Affric are superb.",
+        "name": "Mullach Fraoch-choire",
+        "number_of_climbers": "2675",
+        "rating": "4.1",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Achralaig.shtml"
+        ]
+    },
+    "mullach-nan-coirean": {
+        "altitude": "939",
+        "description": "Mullach nan Coirean is the westernmost of the Mamores. It is a fine grassy ridge but lacks the distinctive pointed summit of many of the other peaks in the range.",
+        "name": "Mullach nan Coirean",
+        "number_of_climbers": "4842",
+        "rating": "3.4",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/stobban.shtml"
+        ]
+    },
+    "mullach-nan-dheiragain": {
+        "altitude": "982",
+        "description": "Mullach na Dheiragain is one of the more awkward Munros to reach. It is situated on a very long ridge extending north from the much higher mountain of Sgurr nan Ceathreamhnan; usually after visiting it steps are retraced over the parent mountain.",
+        "name": "Mullach na Dheiragain",
+        "number_of_climbers": "1657",
+        "rating": "3.0",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/Ceathreamhnan.shtml"
+        ]
+    },
+    "na-gruagaichean": {
+        "altitude": "1056",
+        "description": "Na Gruagaichean is a fine peak on the main ridge of the Mamores, with views down over Kinlochleven. The mountain has a pair of summits, separated by a steep little bealach.",
+        "name": "Na Gruagaichean",
+        "number_of_climbers": "4356",
+        "rating": "3.8",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/binneinmor.shtml"
+        ]
+    },
+    "ruadh-stac-mor": {
+        "altitude": "918",
+        "description": "Ruadh Stac Mor, together with neighbouring A Mhaighdean, is perhaps the remotest Munro in Britain. It is in the heart of the Fisherfield Forest and is a truly stunning viewpoint - steep mountains rise abruptly from the surrounding lochs and bogs whilst a huge sweep of the sea is over to the west.",
+        "name": "Ruadh Stac Mor",
+        "number_of_climbers": "1928",
+        "rating": "4.0",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/fisherfield-6.shtml"
+        ]
+    },
+    "ruadh-stac-mor-beinn-eighe": {
+        "altitude": "1010",
+        "description": "Beinn Eighe is one of celebrated Torridon giants. Ruadh Stac-Mhor is its highest summit, a steep-sided dome off to the north of the main ridge, high above Coire Mhic Fhearchair, one of the finest corries in the country.",
+        "name": "Ruadh-stac Mor (Beinn Eighe)",
+        "number_of_climbers": "4347",
+        "rating": "4.5",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/Beinneighe.shtml"
+        ]
+    },
+    "sail-chaorainn": {
+        "altitude": "1002",
+        "description": "Sail Chaorainn is a rather forgotten peak amongst the Kintail Munros, being situated out of sight behind Sgurr nan Conbhairean. It's position on the ridge extending north from that peak makes it fairly remote.",
+        "name": "Sail Chaorainn",
+        "number_of_climbers": "3114",
+        "rating": "3.1",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/sgurrnanconbhairean.shtml"
+        ]
+    },
+    "saileag": {
+        "altitude": "956",
+        "description": "Saileag is a rather insiginificant summit on the North Kintail Ridge, between the Five Sisters and the Brothers. It is suprising that it has managed to attain a place as a mountain on the Munro list.",
+        "name": "Saileag",
+        "number_of_climbers": "3398",
+        "rating": "3.0",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Brothersridge.shtml"
+        ]
+    },
+    "schiehallion": {
+        "altitude": "1083",
+        "description": "Schiehallion is one of the most familiar and best known mountains in Scotland. A whaleback ridge from most viewpoints, it appears as a perfect cone when seen from across Loch Rannoch. Contour lines were invented on the mountain as part of an experiment to determine the mass of the earth.",
+        "name": "Schiehallion",
+        "number_of_climbers": "14892",
+        "rating": "3.6",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/schiehallion.shtml"
+        ]
+    },
+    "seana-bhraigh": {
+        "altitude": "926",
+        "description": "One of the more remote Munros, Seana Bhraigh is situated on the very edge of an undulating plateau, dramatically poised above the stunning Luchd Choire.",
+        "name": "Seana Bhraigh",
+        "number_of_climbers": "1972",
+        "rating": "4.2",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/seana-bhraigh.shtml"
+        ]
+    },
+    "sgairneach-mhor": {
+        "altitude": "991",
+        "description": "Sgairneach Mhor is a very rounded mountain on the west side of the Drumochter Pass. Coire Creagach below its summit is its main feature.",
+        "name": "Sgairneach Mhor",
+        "number_of_climbers": "5693",
+        "rating": "3.0",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/beinn-udlamain.shtml"
+        ]
+    },
+    "sgiath-chuil": {
+        "altitude": "921",
+        "description": "Sgiath Chuil is an unspectacular mountain between Glen Dochart and Glen Lochay, its summit atop a small crag when seen from the south. It can be climbed from either, usually in combination with neighbouring Meall Glas but the bealach between is low and steep-sided.",
+        "name": "Sgiath Chuil",
+        "number_of_climbers": "4218",
+        "rating": "2.7",
+        "region": "Loch Lomond",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochlomond/meall-glas.shtml"
+        ]
+    },
+    "sgor-an-lochain-uaine": {
+        "altitude": "1258",
+        "description": "Sgor an Lochain Uaine (also known as Angel's Peak) was promoted to full Munro status in 1997. It is an extremely remote mountain at the heart of the Cairngorms. The fine summit, a twin to Cairn Toul, overlooks the magnificent Garbh Choire.",
+        "name": "Sgor an Lochain Uaine",
+        "number_of_climbers": "4453",
+        "rating": "4.0",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/cairn-toul.shtml"
+        ]
+    },
+    "sgor-gaibhre": {
+        "altitude": "955",
+        "description": "Sgor Gaibhre is a remote Munro above Loch Ossian in the heart of the Highlands. It is usually climbed either from Rannoch or Corrour stations on the West Highland railway line.",
+        "name": "Sgor Gaibhre",
+        "number_of_climbers": "2722",
+        "rating": "3.4",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/sgor-gaibhre.shtml"
+        ]
+    },
+    "sgor-gaoith": {
+        "altitude": "1118",
+        "description": "Sgor Gaoith is a distinctive peaked summit on the eastern edge of an area of vast, rolling plateaux. It has an amazingly dramatic location right on the edge of a huge wall of broken crags which collapse down to Loch Einich, and makes for one of the finest shorter hillwalks in the Cairngorms.",
+        "name": "Sgor Gaoith",
+        "number_of_climbers": "6309",
+        "rating": "4.0",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/sgor-gaoith.shtml"
+        ]
+    },
+    "sgor-na-h-ulaidh": {
+        "altitude": "994",
+        "description": "The forgotten mountain of Glen Coe, Sgor na h-Ulaidh is hidden from view and sees far fewer ascents than other peaks in the glen. It is exceptionally steep but the view is an unfamiliar aspect to the better known peaks around it.",
+        "name": "Sgor na h-Ulaidh",
+        "number_of_climbers": "3054",
+        "rating": "3.6",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/sgornaulaidh.shtml"
+        ]
+    },
+    "sgorr-dhearg-beinn-a-bheithir": {
+        "altitude": "1024",
+        "description": "Sgorr Dhearg is the highest of the two Munros on Beinn a'Bheithir, and is the termination of a gracefully arched ridge from the Top of Sgorr Bhan. It is a tremendous mountain and looks very fine from the north side of Loch Leven.",
+        "name": "Sgorr Dhearg (Beinn a' Bheithir)",
+        "number_of_climbers": "5384",
+        "rating": "4.4",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/beinnabheithir.shtml "
+        ]
+    },
+    "sgorr-dhonuill-beinn-a-bheithir": {
+        "altitude": "1001",
+        "description": "Sgorr Dhonuill is the western Munro of Beinn a'Bheithir, a magnificent peak and a superb viewpoint with fine mountains, long lochs and the sea all prominent.",
+        "name": "Sgorr Dhonuill (Beinn a' Bheithir)",
+        "number_of_climbers": "5156",
+        "rating": "4.3",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/beinnabheithir.shtml "
+        ]
+    },
+    "sgorr-nam-fiannaidh-aonach-eagach": {
+        "altitude": "967",
+        "description": "Sgorr nam Fiannaidh is the western summit of the Aonach Eagach. Usually it is reached as part of the classic, hard scramble along the ridge, taking in Meall Dearg as well, but for non-scramblers it is possible to climb it via the path to the bealach with the Pap of Glencoe.",
+        "name": "Sgorr nam Fiannaidh (Aonach Eagach)",
+        "number_of_climbers": "5974",
+        "rating": "4.5",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/aonacheagach.shtml"
+        ]
+    },
+    "sgorr-ruadh": {
+        "altitude": "962",
+        "description": "Sgorr Ruadh is one of the fine sandstone monoliths of the Couilin Forest. It has a magnificent face above Coire Lair but the south and west sides are much less impressive. The mountain is often climbed on its own via its steep but soggy southern slopes, or more interestingly from the bealach linking with Beinn Liath Mhor.",
+        "name": "Sgorr Ruadh",
+        "number_of_climbers": "2609",
+        "rating": "4.0",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/Sgorrruadh.shtml"
+        ]
+    },
+    "sgurr-a-bhealaich-dheirg": {
+        "altitude": "1036",
+        "description": "Sgurr a'Bhealaich Dheirg is the highest and finest mountain on the Brothers Ridge - the eastward extension of the Five Sisters of Kintail. The true summit is on a narrow spur to the north of the ridge and is marked by a well-built cairn.",
+        "name": "Sgurr a'Bhealaich Dheirg",
+        "number_of_climbers": "3343",
+        "rating": "4.0",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Brothersridge.shtml"
+        ]
+    },
+    "sgurr-a-chaorachain": {
+        "altitude": "1053",
+        "description": "Sgurr a' Chaorachain is usually climbed together with neighbouring Sgurr Choinnich. Both mountains are tucked away up the glen of the Allt a' Chonais from the main route through Glen Carron.",
+        "name": "Sgurr a' Chaorachain",
+        "number_of_climbers": "2002",
+        "rating": "3.5",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/Sgurrchoinnich.shtml"
+        ]
+    },
+    "sgurr-a-choire-ghlais": {
+        "altitude": "1083",
+        "description": "The highest of the Glen Strathfarrar Munros, Sgurr a' Choire Ghlais is a grand peak at the centre of the range, topped with two fine cairns.",
+        "name": "Sgurr a' Choire Ghlais",
+        "number_of_climbers": "2413",
+        "rating": "3.8",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/strathfarrar-munros.shtml"
+        ]
+    },
+    "sgurr-a-ghreadaidh": {
+        "altitude": "973",
+        "description": "Sgurr a' Ghreadaidh is the highest point on the central part of the Cuillin ridge. It has two summits, separated by the narrowest arete in the British Isles - sharp as a razor. The true top is the northerly one, usually reached via a hard scramble up An Dorus, though an alternative is given in our description.",
+        "name": "Sgurr a' Ghreadaidh",
+        "number_of_climbers": "2547",
+        "rating": "4.4",
+        "region": "Isle of Skye",
+        "routes": [
+            "https://www.walkhighlands.co.uk/skye/sgurraghreadaidh.shtml"
+        ]
+    },
+    "sgurr-a-mhadaidh": {
+        "altitude": "918",
+        "description": "Sgurr a'Mhadaidh has four summits on one of the trickier sections of the Cuillin Ridge - the highest one, which is the only Munro, is the only one that can be ascended without rock-climbing. The usual ascent is via An Dorus but there is an easier option which leaves the gully before reaching the bealach.",
+        "name": "Sgurr a'Mhadaidh",
+        "number_of_climbers": "2642",
+        "rating": "4.2",
+        "region": "Isle of Skye",
+        "routes": [
+            "https://www.walkhighlands.co.uk/skye/sgurraghreadaidh.shtml"
+        ]
+    },
+    "sgurr-a-mhaim": {
+        "altitude": "1099",
+        "description": "Sgurr a' Mhaim is on a projecting spur to the north of the main Mamores ridge. The summit is covered in quartzite sometimes mistaken for snow from Glen Nevis. The link to the Mamores is along the airy 'Devil's Ridge'.",
+        "name": "Sgurr a'Mhaim",
+        "number_of_climbers": "5538",
+        "rating": "4.1",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/ringofsteall.shtml"
+        ]
+    },
+    "sgurr-a-mhaoraich": {
+        "altitude": "1027",
+        "description": "Sgurr a'Mhaoraich is a solitary Munro on the north side of Loch Quoich between Kintail and Knoydart. It is a fine viewpoint, particularly looking down Loch Huorn.",
+        "name": "Sgurr a'Mhaoraich",
+        "number_of_climbers": "2355",
+        "rating": "4.0",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/sgurramhaoraich.shtml"
+        ]
+    },
+    "sgurr-alasdair": {
+        "altitude": "992",
+        "description": "Sgurr Alasdair is the highest mountain in Britain outwith the mainland. It has perhaps the smallest summit of any of the Skye Cuillin and is an amazing viewpoint with the sweeping Cuillin Ridge, tremedous cliffs, lochs, the sea and scattered islands in all directions.",
+        "name": "Sgurr Alasdair",
+        "number_of_climbers": "3115",
+        "rating": "4.6",
+        "region": "Isle of Skye",
+        "routes": [
+            "https://www.walkhighlands.co.uk/skye/sgurralasdair.shtml"
+        ]
+    },
+    "sgurr-an-doire-leathain": {
+        "altitude": "1010",
+        "description": "Sgurr an Doire Leathain is one of the seven Munros on the South Cluanie ridge; the summit is actually a short distance north of the ridge on a projecting spur.Photo \u00a9 Russel Wills from Geograph under CCSA licence.",
+        "name": "Sgurr an Doire Leathain",
+        "number_of_climbers": "4553",
+        "rating": "3.8",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Glenshielridge.shtml"
+        ]
+    },
+    "sgurr-an-lochain": {
+        "altitude": "1004",
+        "description": "Sgurr an Lochain is perhaps the finest of the seven Munros on the south Glen Shiel Ridge. Its fine peaked summit rises above the craggy corrie which holds the lochan giving the mountain its name.",
+        "name": "Sgurr an Lochain",
+        "number_of_climbers": "4492",
+        "rating": "3.9",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Glenshielridge.shtml"
+        ]
+    },
+    "sgurr-ban": {
+        "altitude": "989",
+        "description": "Sgurr Ban is an extremely remote Munro in the Fisherfield Forest region. It can be reached during an epic walk from Kinlochewe, or approached via Loch a'Bhraoin, but is more usually ascended from Shenavall bothy.",
+        "name": "Sgurr Ban",
+        "number_of_climbers": "1993",
+        "rating": "3.2",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/fisherfield-6.shtml"
+        ]
+    },
+    "sgurr-breac": {
+        "altitude": "999",
+        "description": "Together with its neighbour A' Chailleach, Sgurr Breac is one of the western Fannichs, and it shows a very steep face to the north.",
+        "name": "Sgurr Breac",
+        "number_of_climbers": "3006",
+        "rating": "3.4",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/sgurrbreac.shtml"
+        ]
+    },
+    "sgurr-choinnich": {
+        "altitude": "999",
+        "description": "Sgurr Choinnich is nearly always ascended together with its higher neighbour Sgurr a' Chaorachain. Sgurr Choinnich may be lower but it is the finer peak of the pair, with plenty of crags buttressing its elegant summit ridge.",
+        "name": "Sgurr Choinnich",
+        "number_of_climbers": "1995",
+        "rating": "3.4",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/Sgurrchoinnich.shtml"
+        ]
+    },
+    "sgurr-choinnich-mor": {
+        "altitude": "1094",
+        "description": "A fine pyramidal peak, Sgurr Choinnich Mor is the westernmost of the Grey Corries; its fine arete requires a long approach from any direction.",
+        "name": "Sgurr Choinnich Mor",
+        "number_of_climbers": "3017",
+        "rating": "3.8",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/greycorries.shtml"
+        ]
+    },
+    "sgurr-dubh-mor": {
+        "altitude": "944",
+        "description": "Sgurr Dubh Mor is a dramatic rock peak situated just off the main Cuillin Ridge and usually reached by baggers via tricky and hard to find scramble from the rest of the range. On the other side the Dubhs Ridge leads directly from Loch Coruisk to the summit - this is the longest rock-climb in Britain and a total classic for those with the skills.",
+        "name": "Sgurr Dubh Mor",
+        "number_of_climbers": "2461",
+        "rating": "4.3",
+        "region": "Isle of Skye",
+        "routes": [
+            "https://www.walkhighlands.co.uk/skye/sgurrnaneag.shtml "
+        ]
+    },
+    "sgurr-eilde-mor": {
+        "altitude": "1010",
+        "description": "Sgurr Eilde Mor is an eastern outlier of the Mamores, a steep cone of scree and rock giving an unforgiving ascent above Coire an Lochain. Its steep sides permit views of great depth.",
+        "name": "Sgurr Eilde Mor",
+        "number_of_climbers": "3498",
+        "rating": "3.7",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/sgurreildemor.shtml"
+        ]
+    },
+    "sgurr-fhuar-thuill": {
+        "altitude": "1049",
+        "description": "Sgurr Fhuar-thuill is a slender, grassy ridge with some dramatic corries. To the northeast is Fhuar-thuill Mor with a fine lochan, whilst to the south is Loch Toll a'Mhuic nestled beneath the slabby crags of Sgurr na Muice, an outlying summit of the mountain.",
+        "name": "Sgurr Fhuar-thuill",
+        "number_of_climbers": "2401",
+        "rating": "3.2",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/strathfarrar-munros.shtml"
+        ]
+    },
+    "sgurr-fhuaran": {
+        "altitude": "1067",
+        "description": "Sgurr Fhuaran is the central and highest peak of the renowned Five Sisters of Kintail. A perfect cone, its west ridge is perhaps the longest continuous ascent route in Scotland - but usually Sgurr Fhuaran is approached over its neighbours.",
+        "name": "Sgurr Fhuaran",
+        "number_of_climbers": "3806",
+        "rating": "4.2",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Fivesisters.shtml"
+        ]
+    },
+    "sgurr-fiona-an-teallach": {
+        "altitude": "1060",
+        "description": "Sgurr Fiona is the finer of the two Munro summits on the magnificent ridge of An Teallach. It is a perfect pyramid of rock and guards the beginning of the trickiest part of the traverse.",
+        "name": "Sgurr Fiona (An Teallach)",
+        "number_of_climbers": "3727",
+        "rating": "4.5",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/anteallach.shtml"
+        ]
+    },
+    "sgurr-mhic-choinnich": {
+        "altitude": "948",
+        "description": "Sgurr Mhic Choinnich is a wedge-shaped ridge of rock above the back of Coire Lagan. For non-climbers it is probably one of the more difficult Cuillin Munros, the ridge from the bealach having one particularly exposed climb up. The mountain is named after the early local climbing guide, John Mackenzie.",
+        "name": "Sgurr Mhic Choinnich",
+        "number_of_climbers": "2500",
+        "rating": "4.7",
+        "region": "Isle of Skye",
+        "routes": [
+            "https://www.walkhighlands.co.uk/skye/sgurr-mhic-choinnich.shtml"
+        ]
+    },
+    "sgurr-mor": {
+        "altitude": "1110",
+        "description": "Sgurr Mor is the highest of the Fannichs and easily recognised from afar due to its perfect and improbable cone-like shape. It is a wonderful viewpoint for the northwest Highlands and the highlight of any ridgewalk in the Fannichs.",
+        "name": "Sgurr Mor",
+        "number_of_climbers": "2905",
+        "rating": "3.9",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/fannichs.shtml "
+        ]
+    },
+    "sgurr-mor-beinn-alligin": {
+        "altitude": "986",
+        "description": "Sgurr Mor is the very fine main summit of Beinn Alligin, taking the form of a graceful dome. It is a truly spectacular viewpoint, both for Skye across the sea and for the Horns and Liathach inland.",
+        "name": "Sgurr Mor (Beinn Alligin)",
+        "number_of_climbers": "5013",
+        "rating": "4.6",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/Beinnalligin.shtml"
+        ]
+    },
+    "sgurr-mor-loch-quoich": {
+        "altitude": "1003",
+        "description": "Sgurr Mor is big, steep and rocky mountain and is amongst the most remote Munros to reach, rising between Loch Quoich and lonely Glen Kingie. It is most usually climbed from Strathan at the head of Loch Arkaig, a route involving a climb over an intervening pass on both the way out and back.",
+        "name": "Sgurr Mor (Loch Quoich)",
+        "number_of_climbers": "1550",
+        "rating": "3.5",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/sgurr-mor.shtml"
+        ]
+    },
+    "sgurr-na-banachdich": {
+        "altitude": "965",
+        "description": "Sgurr na Banachdich is one of the easiest Munros in the Skye Cuillin, if climbed via Coir nan Eich. Nonetheless it has a fine pointed summit and magnificent views, lying at the meeting point of three great scramblers' ridges.",
+        "name": "Sgurr na Banachdich",
+        "number_of_climbers": "3435",
+        "rating": "4.0",
+        "region": "Isle of Skye",
+        "routes": [
+            "https://www.walkhighlands.co.uk/skye/sgurrnabanachdich.shtml"
+        ]
+    },
+    "sgurr-na-carnach": {
+        "altitude": "1002",
+        "description": "Sgurr na Carnach is one of the Five Sisters of Kintail, and became a separate Munro in the 1997 revision to Munro's tables. It is a steep rocky cone.",
+        "name": "Sgurr na Carnach",
+        "number_of_climbers": "3719",
+        "rating": "3.8",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Fivesisters.shtml"
+        ]
+    },
+    "sgurr-na-ciche": {
+        "altitude": "1040",
+        "description": "Sgurr na Ciche is one of the most shapely mountains in the Highlands, seen as a fine cone from most directions. It is set in remote, wild country on the edge of Knoydart and commands a wonderful view down the length of Loch Nevis.",
+        "name": "Sgurr na Ciche",
+        "number_of_climbers": "2005",
+        "rating": "4.4",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/sgurrnaciche.shtml"
+        ]
+    },
+    "sgurr-na-ciste-duibhe": {
+        "altitude": "1027",
+        "description": "Sgurr na Ciste Duibhe is southernmost of the Five Sisters of Kintail and offers magnificent views down Loch Duich. Its finest feature is the elegant eastern ridge over the Top of Sgurr nan Spainteach.",
+        "name": "Sgurr na Ciste Duibhe",
+        "number_of_climbers": "3827",
+        "rating": "4.1",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Fivesisters.shtml"
+        ]
+    },
+    "sgurr-na-lapaich": {
+        "altitude": "1150",
+        "description": "Sgurr na Lapaich is the highest of the huge and very remote range of mountains on the north side of Loch Mullardoch. On fine days it is prominent in views from the Kessock Bridge and Inverness.",
+        "name": "Sgurr na Lapaich",
+        "number_of_climbers": "2163",
+        "rating": "4.0",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/mullardoch-munros.shtml"
+        ]
+    },
+    "sgurr-na-ruaidhe": {
+        "altitude": "993",
+        "description": "One of the four Glen Strathfarrar Munros, Sgurr na Ruaidhe is a fairly featureless pudding-shaped hill of spongy mosses. Its redeeming feature is the view east over to the Cromarty and Beauly Firths.",
+        "name": "Sgurr na Ruaidhe",
+        "number_of_climbers": "2467",
+        "rating": "2.8",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/strathfarrar-munros.shtml"
+        ]
+    },
+    "sgurr-na-sgine": {
+        "altitude": "945",
+        "description": "Sgurr na Sgine may not rival the grandeur of its neighbour The Saddle, but it is a fine peak nonetheless and its top Faochag (the whelk) looks improbably steep and cone-like from higher up Glen Shiel.",
+        "name": "Sgurr na Sgine",
+        "number_of_climbers": "3098",
+        "rating": "3.6",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Thesaddle.shtml"
+        ]
+    },
+    "sgurr-nan-ceathreamhnan": {
+        "altitude": "1151",
+        "description": "Sgurr nan Ceathreamhnan is a magnificent mountain, the culminating point of a series of fine ridges. It is at the very heart of the wild area at the head of Glen Affric - making it one of the remotest peaks in Scotland - and most walkers will need an overnight stay to make the ascent.",
+        "name": "Sgurr nan Ceathreamhnan",
+        "number_of_climbers": "1840",
+        "rating": "4.5",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/Ceathreamhnan.shtml"
+        ]
+    },
+    "sgurr-nan-clach-geala": {
+        "altitude": "1093",
+        "description": "Sgurr nan Clach Geala is a magnificent mountain, a fine north-south ridge with a stunning east face, a long wall of broken crags. The approach is normally made via the foot of Loch a'Bhraoin.",
+        "name": "Sgurr nan Clach Geala",
+        "number_of_climbers": "3108",
+        "rating": "4.1",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/sgurrnanclachgeala.shtml"
+        ]
+    },
+    "sgurr-nan-coireachan-glen-dessary": {
+        "altitude": "953",
+        "description": "Sgurr nan Coireachan is a steep mixture of grassy and rocky slopes, giving a tough ascent from Glen Dessary. If the ridge is followed to its termination on Sgurr na Ciche, however, it is merely the warm-up for the exertions to follow.",
+        "name": "Sgurr nan Coireachan (Glen Dessary)",
+        "number_of_climbers": "1955",
+        "rating": "3.4",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/sgurrnaciche.shtml"
+        ]
+    },
+    "sgurr-nan-coireachan-glenfinnan": {
+        "altitude": "956",
+        "description": "Sgurr nan Coireachan is one of a pair of Munros (the other being Sgurr Thuilm at the head of Glen Finnan. Both are fine, rocky peaks with great views and some of the character of neighbouring Knoydart.",
+        "name": "Sgurr nan Coireachan (Glenfinnan)",
+        "number_of_climbers": "2602",
+        "rating": "3.8",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/sgurrthuilm.shtml"
+        ]
+    },
+    "sgurr-nan-conbhairean": {
+        "altitude": "1109",
+        "description": "Sgurr nan Conbhairean is a shy, dome shaped mountain above Loch Cluanie but set back too far to be seen from the road. It is the highest of a group of three Munros that make an enjoyable round.",
+        "name": "Sgurr nan Conbhairean",
+        "number_of_climbers": "3295",
+        "rating": "3.9",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/sgurrnanconbhairean.shtml"
+        ]
+    },
+    "sgurr-nan-each": {
+        "altitude": "923",
+        "description": "Sgurr nan Each is a Munro on the south ridge of Sgurr nan Clach Geala. It takes the form of an elegant 's'-shaped ridge with steep flanks.",
+        "name": "Sgurr nan Each",
+        "number_of_climbers": "2994",
+        "rating": "3.8",
+        "region": "Ullapool",
+        "routes": [
+            "https://www.walkhighlands.co.uk/ullapool/sgurrnanclachgeala.shtml"
+        ]
+    },
+    "sgurr-nan-eag": {
+        "altitude": "924",
+        "description": "The southernmost peak in the Cuillin, Sgurr nan Eag is on one of the more straightforward sections of ridge though it does still require scrambling skills. This section of the ridge continues out to the terminal peak of Gars-bheinn and its position above the sea gives it stupendous views.",
+        "name": "Sgurr nan Eag",
+        "number_of_climbers": "2833",
+        "rating": "4.2",
+        "region": "Isle of Skye",
+        "routes": [
+            "https://www.walkhighlands.co.uk/skye/sgurrnaneag.shtml "
+        ]
+    },
+    "sgurr-nan-gillean": {
+        "altitude": "964",
+        "description": "Sgurr nan Gillean is commonly regarded as the finest of the Skye Cuillin. A magnificent pyramidal peak, it has three main ridges. The easiest is open to keen scramblers only whilst the other two ridges are graded rock-climbs.",
+        "name": "Sgurr nan Gillean",
+        "number_of_climbers": "3016",
+        "rating": "4.7",
+        "region": "Isle of Skye",
+        "routes": [
+            "https://www.walkhighlands.co.uk/skye/sgurrnangillean.shtml"
+        ]
+    },
+    "sgurr-thuilm": {
+        "altitude": "963",
+        "description": "Sgurr Thuilm is one of the two Glenfinnan Munros. A fine rocky peak of great character, the views are magnificent with lochs and steep mountains in all directions.",
+        "name": "Sgurr Thuilm",
+        "number_of_climbers": "2621",
+        "rating": "3.7",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/sgurrthuilm.shtml"
+        ]
+    },
+    "slioch": {
+        "altitude": "981",
+        "description": "Slioch is one of the most familiar mountains in the Highlands, with the view of the mountain across Loch Maree adorning countless calendars and brochures. It is also a fine viewpoint over the Fisherfield Forest to the north.",
+        "name": "Slioch",
+        "number_of_climbers": "3526",
+        "rating": "4.4",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/Slioch.shtml"
+        ]
+    },
+    "spidean-a-choire-leith-liathach": {
+        "altitude": "1055",
+        "description": "Spidean a' Choire Leith is the highest summit of mighty Liathach. The mountain is exceptionally well defended by cliffs and buttresses and there are very few possible routes of ascent - and even these are steep and scrambly. The ridge on both sides of the summit is nothing short of magnificent.",
+        "name": "Spidean a' Choire Leith (Liathach)",
+        "number_of_climbers": "3940",
+        "rating": "4.7",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/Liathach.shtml"
+        ]
+    },
+    "spidean-coire-nan-clach-beinn-eighe": {
+        "altitude": "993",
+        "description": "Spidean Coire nan Clach was promoted to Munro status in 1997 to become Beinn Eighe's second Munro. There is a trig point at 972 meters on the ridge but the true summit is a fine rock peak a short distance further northeast, at 992 metres.",
+        "name": "Spidean Coire nan Clach (Beinn Eighe)",
+        "number_of_climbers": "4349",
+        "rating": "4.5",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/Beinneighe.shtml"
+        ]
+    },
+    "spidean-mialach": {
+        "altitude": "996",
+        "description": "Spidean Mialach is one of a pair of Munros (the other being Gleouraich) on the north side of Loch Quoich. They make an excellent walk with fine stalkers paths on their lower slopes.",
+        "name": "Spidean Mialach",
+        "number_of_climbers": "3121",
+        "rating": "3.7",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/spideanmialach.shtml"
+        ]
+    },
+    "sron-a-choire-ghairbh": {
+        "altitude": "937",
+        "description": "Sron a' Choire Ghairbh is the higher of the two Munros on the north side of Loch Lochy, rising above the forestry as seen from the A82 on the south side of the loch. Its rounded summit has steep flanks and corries; a massive hydro-scheme is planned for the largest, which currently cradles tiny Loch a' Choire Ghlais.",
+        "name": "Sron a' Choire Ghairbh",
+        "number_of_climbers": "3474",
+        "rating": "3.2",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/lochlochymunros.shtml"
+        ]
+    },
+    "stob-a-choire-mheadhoin": {
+        "altitude": "1106",
+        "description": "A twin to neighbouring Stob Coire Easain, Stob a' Choire Mheadhoin is part of a huge north-south ridge. It looks a fine pyramid when seen from around Moy its central position and height makes it a good viewpoint.",
+        "name": "Stob a' Choire Mheadhoin",
+        "number_of_climbers": "3631",
+        "rating": "3.5",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/easains.shtml"
+        ]
+    },
+    "stob-a-choire-odhair": {
+        "altitude": "945",
+        "description": "Stob a' Choire Odhair may not be well-known by name, but it is a familiar sight as the dome-shaped mountain rising behind the lochs in the frequently-photographed view across Rannoch Moor. It is a fine viewpoint for looking out over the vast, wild emptyness of the moor.",
+        "name": "Stob a' Choire Odhair",
+        "number_of_climbers": "4619",
+        "rating": "3.5",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/stob-ghabhar.shtml"
+        ]
+    },
+    "stob-ban-grey-corries": {
+        "altitude": "977",
+        "description": "Stob Ban is a fine cone-shaped mountain almost hidden behind the much higher Grey Corries range.",
+        "name": "Stob Ban (Grey Corries)",
+        "number_of_climbers": "3206",
+        "rating": "3.9",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/stob-ban-grey-corries.shtml"
+        ]
+    },
+    "stob-ban-mamores": {
+        "altitude": "999",
+        "description": "Stob Ban is a very steep and sharply peaked Munro, one of the finest peaks in the Mamores. It is well seen from many points in lower Glen Nevis.",
+        "name": "Stob Ban (Mamores)",
+        "number_of_climbers": "5271",
+        "rating": "4.4",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/stobban.shtml"
+        ]
+    },
+    "stob-binnein": {
+        "altitude": "1165",
+        "description": "Stob Binnein is joined to its slightly higher twin Ben More and seldom thought of on its own; however it is actually the finer of the two summits. It can be approached separately from the south as well as the more usual combination from the north.",
+        "name": "Stob Binnein",
+        "number_of_climbers": "8251",
+        "rating": "4.0",
+        "region": "Loch Lomond",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochlomond/ben-more.shtml"
+        ]
+    },
+    "stob-choire-claurigh": {
+        "altitude": "1177",
+        "description": "The highest of the Grey Corries, this fine peak appears covered in scree in distant views.  The range actually makes for a classic ridgewalk, almost always including at least the neighbouring Stob Coire an Laoigh.",
+        "name": "Stob Choire Claurigh",
+        "number_of_climbers": "3314",
+        "rating": "3.5",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/greycorries.shtml"
+        ]
+    },
+    "stob-coir-an-albannaich": {
+        "altitude": "1044",
+        "description": "Stob Coir' an Albannaich is one of the fine range of mountains on the south side of Glen Etive. It has a very fine summit right on the edge of a steep crag and it gives an enjoyable traverse.",
+        "name": "Stob Coir an Albannaich",
+        "number_of_climbers": "3017",
+        "rating": "3.7",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/stobcoiranalbannaich.shtml"
+        ]
+    },
+    "stob-coire-a-chairn": {
+        "altitude": "981",
+        "description": "Stob Coire a' Chairn has a fine situation where the airy An Gearanach ridge meets the main spine of the Mamores. This area has some of the best ridgewalking in Scotland.",
+        "name": "Stob Coire a' Chairn",
+        "number_of_climbers": "5682",
+        "rating": "3.3",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/ringofsteall.shtml"
+        ]
+    },
+    "stob-coire-an-laoigh": {
+        "altitude": "1116",
+        "description": "Stob Coire an Laoigh is the second of the Grey Corries peaks, set on a magnificent ridgewalk. The approaches to this peak are long and the Grey Corries traverse is not to be taken lightly.",
+        "name": "Stob Coire an Laoigh",
+        "number_of_climbers": "3229",
+        "rating": "3.5",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/greycorries.shtml"
+        ]
+    },
+    "stob-coire-easain": {
+        "altitude": "1115",
+        "description": "A twin to neighbouring Stob a' Choire Mheadhoin, Stob Coire Easain shows a steep face to the northeast. This lengthy ridge lies between the deep trench of Loch Treig - traversed by the West Highland railway line - and the Lairig Leacach pass.",
+        "name": "Stob Coire Easain",
+        "number_of_climbers": "3571",
+        "rating": "3.7",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/easains.shtml"
+        ]
+    },
+    "stob-coire-raineach-buachaille-etive-beag": {
+        "altitude": "925",
+        "description": "Stob Coire Raineach - the northern summit of Buachaille Etive Beag - became a Munro in its own right in 1997. Its broad summit has great views of the Aonach Eagach.",
+        "name": "Stob Coire Raineach (Buachaille Etive Beag)",
+        "number_of_climbers": "8311",
+        "rating": "3.9",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/buachailleetivebeag.shtml "
+        ]
+    },
+    "stob-coire-sgreamhach": {
+        "altitude": "1072",
+        "description": "Stob Coire Sgreamhach is really part of the Bidean nam Bian massif but become a Munro in its own right in 1997. This fine summit is situated where the Beinn Fhada ridge joins the main ridge across the back of Bidean. Beinn Fhada is tricky terrain - particularly in descent - and the Lost Valley is the route usually used, involving a steep and eroded climb up scree.",
+        "name": "Stob Coire Sgreamhach",
+        "number_of_climbers": "6027",
+        "rating": "4.1",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/bideannambian.shtml"
+        ]
+    },
+    "stob-coire-sgriodain": {
+        "altitude": "979",
+        "description": "Stob Coire Sgriodain is a steep sided ridge high above the glacial trench of Loch Treig. It is usually climbed in combination with neighbouring Chno Dearg.",
+        "name": "Stob Coire Sgriodain",
+        "number_of_climbers": "3618",
+        "rating": "3.3",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/chnodearg.shtml"
+        ]
+    },
+    "stob-dearg-buachaille-etive-mor": {
+        "altitude": "1021",
+        "description": "Stob Dearg is the highest and finest peak of Buachaille Etive Mor, and one of the most famous sights of the Highlands. The mountain presents a remarkable pyramid of rock to travellers along the A82 across Rannoch Moor.",
+        "name": "Stob Dearg (Buachaille Etive Mor)",
+        "number_of_climbers": "9151",
+        "rating": "4.6",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/buachailleetivemor.shtml"
+        ]
+    },
+    "stob-diamh": {
+        "altitude": "998",
+        "description": "Stob Daimh (misspelt Diamh on some OS maps) is a fine peak, but is normally ascended as part of a circuit around Coire Cruachan with its majestic neighbour, Ben Cruachan. Another popular route is the Dalmally horseshoe, making an alternative circuit of the mountains eastern ridges.",
+        "name": "Stob Daimh",
+        "number_of_climbers": "5681",
+        "rating": "3.6",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/ben-cruachan.shtml"
+        ]
+    },
+    "stob-dubh-buachaille-etive-beag": {
+        "altitude": "956",
+        "description": "The higher of the two Munros on Buachaille Etive Beag, Stob Dubh is a fine summit on a grand section of ridge, overlooking Loch Etive.",
+        "name": "Stob Dubh (Buachaille Etive Beag)",
+        "number_of_climbers": "8484",
+        "rating": "4.2",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/buachailleetivebeag.shtml "
+        ]
+    },
+    "stob-ghabhar": {
+        "altitude": "1090",
+        "description": "Stob Ghabhar is the finest peak of the Black Mount range, with narrow rocky ridges, steep cliffs and deep corries. It is a familiar sight seen across the lochans of Rannoch Moor from the A82.",
+        "name": "Stob Ghabhar",
+        "number_of_climbers": "4529",
+        "rating": "4.3",
+        "region": "Argyll",
+        "routes": [
+            "https://www.walkhighlands.co.uk/argyll/stob-ghabhar.shtml"
+        ]
+    },
+    "stob-na-broige-buachaille-etive-mor": {
+        "altitude": "956",
+        "description": "Stob na Broige is the summit at the Glen Etive end of Buachaille Etive Mor. It was promoted to become a separate Munro in 1997 when means that most baggers now traverse the whole ridge.",
+        "name": "Stob na Broige  (Buachaille Etive Mor)",
+        "number_of_climbers": "7341",
+        "rating": "4.0",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/buachailleetivemor.shtml"
+        ]
+    },
+    "stob-poite-coire-ardair": {
+        "altitude": "1054",
+        "description": "Stob Poite Coire Ardair is a ridge on the opposite side of the Window from Creag Meagaidh. It offers fine views across the spectacular cliffs of Coire Ardair, and has steep broken crags on its southern flanks.",
+        "name": "Stob Poite Coire Ardair",
+        "number_of_climbers": "4578",
+        "rating": "2.9",
+        "region": "Fort William",
+        "routes": [
+            "https://www.walkhighlands.co.uk/fortwilliam/creagmeagaidh.shtml"
+        ]
+    },
+    "stuc-a-chroin": {
+        "altitude": "975",
+        "description": "Stuc a' Chroin is a steep and rocky peak, involving a scramble when ascended (as is common) from neighbouring Ben Vorlich.",
+        "name": "Stuc a' Chroin",
+        "number_of_climbers": "10090",
+        "rating": "3.8",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/ben-vorlich.shtml"
+        ]
+    },
+    "stuchd-an-lochain": {
+        "altitude": "960",
+        "description": "Stuchd an Lochain is an enjoyable mountain with a fine northern corrie enclosing the almost circular Lochan nan Cat. It is usually climbed via a very short route from Loch an Daimh to the north but can also be approached from Pubil in upper Glen Lyon.",
+        "name": "Stuchd an Lochain",
+        "number_of_climbers": "5751",
+        "rating": "3.6",
+        "region": "Perthshire",
+        "routes": [
+            "https://www.walkhighlands.co.uk/perthshire/stuchd-an-lochain.shtml"
+        ]
+    },
+    "the-cairnwell": {
+        "altitude": "933",
+        "description": "The Cairnwell is a prominent cone-shaped mountain when seen from the south on the drive up the Cairnwell Pass. It is a great viewpoint, but the summit has been ruined by the construction of communications masts whilst its slopes are scattered with ski-ing impedimentia.",
+        "name": "The Cairnwell",
+        "number_of_climbers": "10476",
+        "rating": "2.1",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/cairnwell.shtml "
+        ]
+    },
+    "the-devils-point": {
+        "altitude": "1004",
+        "description": "The Devil's Point is a bare pyramid of rock which guards the entrance to the Lairig Ghru from the south. From other directions its true nature as the southern termination of Cairn Toul is more apparent.",
+        "name": "The Devil's Point",
+        "number_of_climbers": "4553",
+        "rating": "3.9",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/cairn-toul.shtml"
+        ]
+    },
+    "the-saddle": {
+        "altitude": "1010",
+        "description": "The Saddle (An Diollaid in Gaelic) is the finest mountain in Kintail. Its fine summit has a whole batch of magnificent ridges, the pick of them all being the celebrated Forcan Ridge, one of the airiest scrambles in the Highlands.",
+        "name": "The Saddle",
+        "number_of_climbers": "3565",
+        "rating": "4.5",
+        "region": "Kintail",
+        "routes": [
+            "https://www.walkhighlands.co.uk/kintail/Thesaddle.shtml"
+        ]
+    },
+    "toll-creagach": {
+        "altitude": "1054",
+        "description": "Toll Creagach is an undistinguished dome-like summit between Glen Affric and Loch Mullardoch, with shallow corries on its flanks.",
+        "name": "Toll Creagach",
+        "number_of_climbers": "3024",
+        "rating": "2.7",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/Tollcreagach.shtml"
+        ]
+    },
+    "tolmount": {
+        "altitude": "958",
+        "description": "Tolmount looks a fine cone-like peak when seen from Loch Callater; otherwise it is a twin to its close neighbour Tom Buidhe - a simple rounded dome-like upthrust on the wide Mounth plateau.",
+        "name": "Tolmount",
+        "number_of_climbers": "6719",
+        "rating": "2.5",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/tolmount.shtml"
+        ]
+    },
+    "tom-a-choinich": {
+        "altitude": "1112",
+        "description": "Tom a' Choinich is an eastward extension of the Carn Eige range, an 'e'-shaped junction of three ridges above Glen Affric. It is a far finer peak than its lumpy neighbour Toll Creagach.",
+        "name": "Tom a' Choinich",
+        "number_of_climbers": "3126",
+        "rating": "3.4",
+        "region": "Loch Ness",
+        "routes": [
+            "https://www.walkhighlands.co.uk/lochness/Tollcreagach.shtml"
+        ]
+    },
+    "tom-buidhe": {
+        "altitude": "957",
+        "description": "Tom Buidhe is a featureless dome-like upswelling on the vast Mounth plateau, looking nothing like a mountain from any direction. It is nearly always climbed with its neighbour Tolmount, and can be ascended from Glen Callater, Glen Doll or from the Cairnwell Pass.",
+        "name": "Tom Buidhe",
+        "number_of_climbers": "6605",
+        "rating": "2.0",
+        "region": "Cairngorms",
+        "routes": [
+            "https://www.walkhighlands.co.uk/cairngorms/tolmount.shtml"
+        ]
+    },
+    "tom-na-gruagaich-beinn-alligin": {
+        "altitude": "922",
+        "description": "Tom na Gruagaich, formerly a Top, was promoted to become the second Munro of Beinn Alligin in 1997. It has sensational views over the sea to Skye and for most walkers is the start of the sensational traverse of the mountain.",
+        "name": "Tom na Gruagaich (Beinn Alligin)",
+        "number_of_climbers": "5263",
+        "rating": "4.4",
+        "region": "Torridon",
+        "routes": [
+            "https://www.walkhighlands.co.uk/torridon/Beinnalligin.shtml"
+        ]
+    }
+}

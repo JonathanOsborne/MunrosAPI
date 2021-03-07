@@ -1,0 +1,10 @@
+{
+  "python.pythonPath": "c:\\Work\\Training\\Munro_API\\venv\\Scripts\\python.exe",
+  "python.linting.pylintEnabled": true,
+  "python.linting.pycodestyleEnabled": false,
+  "python.linting.enabled": true,
+  "python.linting.pylintPath": "C:\\Work\\Training\\Munro_API\\venv\\Scripts\\pylint",
+  "cSpell.words": [
+    "munros"
+  ]
+}
